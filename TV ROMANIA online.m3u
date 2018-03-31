@@ -1,0 +1,1858 @@
+#EXTM3U
+#EXTINF:0,Channel 1 - 1 TV NEAMT
+http://1tv.ambra.ro
+http://89.35.208.138:80
+http://stream.radiozu.ro:8020/
+#EXTINF:0,Channel 2 - TELE M + PRIMA TV
+http://telem.ambra.ro
+http://89.35.208.132:80
+#EXTINF:0,Channel 3 - TVM NEAMT
+http://tvm.ambra.ro
+http://89.35.208.130:80
+http://mediafilmcenter.ro:10
+mms://mediafilmcenter.ro:10/
+mmsh://mediafilmcenter.ro:10 
+http://iptv.tvsatrm.ro/livestream/tvse.m3u8
+#EXTINF:0,UTV
+http://cdn.magictvbox.eu:8080/utv/720p.m3u8
+#EXTINF:0,Balkanika
+http://62.210.143.43/tv/seirsanduk.com.php?url=http://www.seirsanduk.com/?id=balkanika
+#EXTINF:0,PRO TV HD
+http://31.223.238.10:8001/1:0:1:3EB:2:1:E0831B3:0:0:0:
+http://192.168.1.8@31.223.238.10:8001/1:0:1:3EB:2:1:E0831B3:0:0:0:
+http://s2.stream.cwdw.live:8080/458/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+http://149.202.196.52:25461/live/I02CzDS14C/EHdAiyOOS0/191.m3u8
+http://178.21.122.94:1935/live/_definst_/tvr1/playlist.m3u8
+#EXTINF:-1,TVR3 RO
+http://s2.stream.cwdw.live:8080/447/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,TVR2 RO
+http://s2.stream.cwdw.live:8080/448/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,TVR1 RO
+http://s2.stream.cwdw.live:8080/449/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,TVH RO
+http://s2.stream.cwdw.live:8080/454/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Sport HD RO
+http://s2.stream.cwdw.live:8080/455/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Romania TV RO
+http://s2.stream.cwdw.live:8080/456/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Realitatea TV RO
+http://s2.stream.cwdw.live:8080/457/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Pro TV HD
+http://s2.stream.cwdw.live:8080/458/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Pro Cinema RO
+http://s2.stream.cwdw.live:8080/459/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Nickelodeon RO
+http://s2.stream.cwdw.live:8080/460/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,National 24 RO
+http://s2.stream.cwdw.live:8080/461/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,MTV Hits RO
+http://s2.stream.cwdw.live:8080/462/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,MTV Rocks RO
+http://s2.stream.cwdw.live:8080/463/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,MTV Dance RO
+http://s2.stream.cwdw.live:8080/464/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,JimJam RO
+http://s2.stream.cwdw.live:8080/465/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Eurosport 2 HD RO
+http://s2.stream.cwdw.live:8080/466/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Acasa Gold RO
+http://s2.stream.cwdw.live:8080/481/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Acasa RO
+http://s2.stream.cwdw.live:8080/482/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Antena 1 RO
+http://s2.stream.cwdw.live:8080/483/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Antena 3 RO
+http://s2.stream.cwdw.live:8080/484/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Antena Stars RO
+http://s2.stream.cwdw.live:8080/485/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,AXN Black RO
+http://s2.stream.cwdw.live:8080/486/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,AXN RO
+http://s2.stream.cwdw.live:8080/487/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,AXN White RO
+http://s2.stream.cwdw.live:8080/488/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Cartoon Network RO
+http://s2.stream.cwdw.live:8080/489/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Cinemax HD RO
+http://s2.stream.cwdw.live:8080/490/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Cinemax 2 RO
+http://s2.stream.cwdw.live:8080/491/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Da Vinci Learning RO
+http://s2.stream.cwdw.live:8080/492/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Dolce Sport 5 RO
+http://s2.stream.cwdw.live:8080/493/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Dolce Sport 6 RO
+http://s2.stream.cwdw.live:8080/494/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,eSTRADA TV RO
+http://s2.stream.cwdw.live:8080/495/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Etno TV HD RO
+http://s2.stream.cwdw.live:8080/496/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Eurosport 1 HD RO
+http://s2.stream.cwdw.live:8080/497/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Happy Channel RO
+http://s2.stream.cwdw.live:8080/498/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,HBO 3 HD RO
+http://s2.stream.cwdw.live:8080/499/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,HBO HD RO
+http://s2.stream.cwdw.live:8080/500/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Prima TV RO
+http://s2.stream.cwdw.live:8080/501/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+
+#EXTINF:-1,HBO HD
+http://s2.stream.cwdw.live:8080/295/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,HBO HD+
+http://s2.stream.cwdw.live:8080/380/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,HBO
+http://s2.stream.cwdw.live:8080/138/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,HBO2
+http://s2.stream.cwdw.live:8080/195/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,HBO3
+http://s2.stream.cwdw.live:8080/349/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,HBO+
+http://s2.stream.cwdw.live:8080/152/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,DIGI Film
+http://s2.stream.cwdw.live:8080/305/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Cinemax
+http://s2.stream.cwdw.live:8080/199/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Cinemax2
+http://s2.stream.cwdw.live:8080/291/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Filmbox Premium
+http://s2.stream.cwdw.live:8080/211/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,FilmBox Extra HD
+http://s2.stream.cwdw.live:8080/216/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,FilmBox Plus INT
+http://s2.stream.cwdw.live:8080/167/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Film+
+http://s2.stream.cwdw.live:8080/153/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,FILM+2
+http://s2.stream.cwdw.live:8080/360/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Film Cafe
+http://s2.stream.cwdw.live:8080/179/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Film Mania
+http://s2.stream.cwdw.live:8080/339/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,FILMBOX
+http://s2.stream.cwdw.live:8080/354/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Filmbox Family
+http://s2.stream.cwdw.live:8080/151/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Fox
+http://s2.stream.cwdw.live:8080/245/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,M+
+http://s2.stream.cwdw.live:8080/336/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Paramount Channel Hungary
+http://s2.stream.cwdw.live:8080/272/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,AMCHu
+http://s2.stream.cwdw.live:8080/229/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,AMC CE
+http://s2.stream.cwdw.live:8080/263/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,AXN Central Europe
+http://s2.stream.cwdw.live:8080/343/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,AXN White
+http://s2.stream.cwdw.live:8080/341/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,AXN Black
+http://s2.stream.cwdw.live:8080/342/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,FEM 3
+http://s2.stream.cwdw.live:8080/364/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,PRIME
+http://s2.stream.cwdw.live:8080/365/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Cool
+http://s2.stream.cwdw.live:8080/180/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Viasat3
+http://s2.stream.cwdw.live:8080/242/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Viasat6
+http://s2.stream.cwdw.live:8080/204/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Comedy Central Hungary
+http://s2.stream.cwdw.live:8080/274/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,HUMOR
+http://s2.stream.cwdw.live:8080/361/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Comedy Central Extra
+http://s2.stream.cwdw.live:8080/275/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,GALAXY
+http://s2.stream.cwdw.live:8080/355/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Sundance HD
+http://s2.stream.cwdw.live:8080/302/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,m5 HD
+http://s2.stream.cwdw.live:8080/337/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,m5
+http://s2.stream.cwdw.live:8080/382/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Izaura TV
+http://s2.stream.cwdw.live:8080/344/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,ozone network
+http://s2.stream.cwdw.live:8080/502/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,STORY4
+http://s2.stream.cwdw.live:8080/268/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,STORY5
+http://s2.stream.cwdw.live:8080/240/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Sorozat+
+http://s2.stream.cwdw.live:8080/254/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Duna World
+http://s2.stream.cwdw.live:8080/166/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Duna HD
+http://s2.stream.cwdw.live:8080/293/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Duna TV
+http://s2.stream.cwdw.live:8080/292/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Echo TV
+http://s2.stream.cwdw.live:8080/162/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,ATV
+http://s2.stream.cwdw.live:8080/161/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,HirTV
+http://s2.stream.cwdw.live:8080/233/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,TV Paprika
+http://s2.stream.cwdw.live:8080/148/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Chili Tv
+http://s2.stream.cwdw.live:8080/381/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Food Network HD
+http://s2.stream.cwdw.live:8080/386/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Food Network
+http://s2.stream.cwdw.live:8080/175/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Travel Channel HD
+http://s2.stream.cwdw.live:8080/294/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Travel Channel
+http://s2.stream.cwdw.live:8080/264/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Fine Living HD
+http://s2.stream.cwdw.live:8080/385/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Fine Living
+http://s2.stream.cwdw.live:8080/338/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,TLC
+http://s2.stream.cwdw.live:8080/284/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,DOQ
+http://s2.stream.cwdw.live:8080/357/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,CBS Reality
+http://s2.stream.cwdw.live:8080/287/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Spektrum HD
+http://s2.stream.cwdw.live:8080/326/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Spektrum
+http://s2.stream.cwdw.live:8080/202/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Spektrum Home
+http://s2.stream.cwdw.live:8080/182/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,National Geographic HD
+http://s2.stream.cwdw.live:8080/370/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Nat Geo
+http://s2.stream.cwdw.live:8080/260/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,BBC Earth HD
+http://s2.stream.cwdw.live:8080/503/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,History HD
+http://s2.stream.cwdw.live:8080/217/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,HISTORY
+http://s2.stream.cwdw.live:8080/269/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Discovery HD Showcase
+http://s2.stream.cwdw.live:8080/298/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Discovery Channel
+http://s2.stream.cwdw.live:8080/285/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,DTX
+http://s2.stream.cwdw.live:8080/203/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Discovery Science
+http://s2.stream.cwdw.live:8080/196/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,ID Xtra
+http://s2.stream.cwdw.live:8080/266/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,DIGI World HD
+http://s2.stream.cwdw.live:8080/362/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,DIGI World
+http://s2.stream.cwdw.live:8080/304/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Viasat Explore
+http://s2.stream.cwdw.live:8080/286/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Viasat History
+http://s2.stream.cwdw.live:8080/262/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Da Vinci Learning
+http://s2.stream.cwdw.live:8080/267/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Nat Geo Wild HD
+http://s2.stream.cwdw.live:8080/366/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Nat Geo Wild
+http://s2.stream.cwdw.live:8080/201/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Animal Planet
+http://s2.stream.cwdw.live:8080/194/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Animal Planet HD
+http://s2.stream.cwdw.live:8080/299/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Fishing and Hunting
+http://s2.stream.cwdw.live:8080/356/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Muzsika TV
+http://s2.stream.cwdw.live:8080/255/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Slager HU
+http://s2.stream.cwdw.live:8080/334/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,VIVA Hungary
+http://s2.stream.cwdw.live:8080/273/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Zenebutik
+http://s2.stream.cwdw.live:8080/359/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,MTV Europe
+http://s2.stream.cwdw.live:8080/277/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,MTV Hits
+http://s2.stream.cwdw.live:8080/279/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,MTV Dance
+http://s2.stream.cwdw.live:8080/280/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,MTV Rocks
+http://s2.stream.cwdw.live:8080/282/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,MTV Music
+http://s2.stream.cwdw.live:8080/256/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,MTV Classic
+http://s2.stream.cwdw.live:8080/451/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,VH1
+http://s2.stream.cwdw.live:8080/278/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,VH1 Classic
+http://s2.stream.cwdw.live:8080/281/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Stingray iConcerts
+http://s2.stream.cwdw.live:8080/324/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Brava HD
+http://s2.stream.cwdw.live:8080/325/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,UNITEL CLASSICA HD
+http://s2.stream.cwdw.live:8080/393/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Fashion TV
+http://s2.stream.cwdw.live:8080/214/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Cartoon Network
+http://s2.stream.cwdw.live:8080/258/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Boomerang
+http://s2.stream.cwdw.live:8080/200/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Disney Channel
+http://s2.stream.cwdw.live:8080/193/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Disney Junior
+http://s2.stream.cwdw.live:8080/350/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Nickelodeon Europe
+http://s2.stream.cwdw.live:8080/276/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Megamax
+http://s2.stream.cwdw.live:8080/257/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Nick JR
+http://s2.stream.cwdw.live:8080/358/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Minimax
+http://s2.stream.cwdw.live:8080/165/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Kiwi TV
+http://s2.stream.cwdw.live:8080/340/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,ducktv
+http://s2.stream.cwdw.live:8080/259/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,JimJam
+http://s2.stream.cwdw.live:8080/192/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Auto Motor Sport
+http://s2.stream.cwdw.live:8080/231/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,AutoMotorSport HD
+http://s2.stream.cwdw.live:8080/394/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Extreme Sports Channel
+http://s2.stream.cwdw.live:8080/191/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,EDGE
+http://s2.stream.cwdw.live:8080/395/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Eurosport 1 HD
+http://s2.stream.cwdw.live:8080/368/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Eurosport 1
+http://s2.stream.cwdw.live:8080/283/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Eurosport 2 HD
+http://s2.stream.cwdw.live:8080/369/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Eurosport 2
+http://s2.stream.cwdw.live:8080/363/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Spiler TV
+http://s2.stream.cwdw.live:8080/335/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Sport 1 HD
+http://s2.stream.cwdw.live:8080/207/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Sport1
+http://s2.stream.cwdw.live:8080/346/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Sport2
+http://s2.stream.cwdw.live:8080/155/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,m4 HD
+http://s2.stream.cwdw.live:8080/296/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,SportM
+http://s2.stream.cwdw.live:8080/271/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,DIGI Sport 1
+http://s2.stream.cwdw.live:8080/308/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,DIGI Sport HD1
+http://s2.stream.cwdw.live:8080/352/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,DIGI Sport 2
+http://s2.stream.cwdw.live:8080/306/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,DIGI Sport HD2
+http://s2.stream.cwdw.live:8080/353/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,DIGI Sport 3
+http://s2.stream.cwdw.live:8080/307/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Arena Sport 1 HD
+http://s2.stream.cwdw.live:8080/210/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Arena Sport
+http://s2.stream.cwdw.live:8080/87/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Nova Sport 1 HD
+http://s2.stream.cwdw.live:8080/43/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Nova Sport 2 HD
+http://s2.stream.cwdw.live:8080/66/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Sport1 CZE HD
+http://s2.stream.cwdw.live:8080/383/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Sport2 CZE HD
+http://s2.stream.cwdw.live:8080/7/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,CT sport HD
+http://s2.stream.cwdw.live:8080/128/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,CT1 HD
+http://s2.stream.cwdw.live:8080/405/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,????? TV
+http://s2.stream.cwdw.live:8080/378/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Reality Kings
+http://s2.stream.cwdw.live:8080/384/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Private TV
+http://s2.stream.cwdw.live:8080/290/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Hustler TV
+http://s2.stream.cwdw.live:8080/261/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Brazzers TV
+http://s2.stream.cwdw.live:8080/376/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Pink OTV
+http://s2.stream.cwdw.live:8080/372/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Passion XXX
+http://s2.stream.cwdw.live:8080/373/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,SCT
+http://s2.stream.cwdw.live:8080/379/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,LeoTV
+http://s2.stream.cwdw.live:8080/345/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,?????? ????
+http://s2.stream.cwdw.live:8080/377/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,National TV RO
+http://s2.stream.cwdw.live:8080/409/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,TV Paprika RO
+http://s2.stream.cwdw.live:8080/410/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Cinemax RO
+http://s2.stream.cwdw.live:8080/411/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Paramount Channel RO
+http://s2.stream.cwdw.live:8080/412/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Extreme Sport RO
+http://s2.stream.cwdw.live:8080/413/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Sport RO
+http://s2.stream.cwdw.live:8080/414/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Eurosport RO
+http://s2.stream.cwdw.live:8080/415/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Eurosport 2 RO
+http://s2.stream.cwdw.live:8080/416/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,DIGI Sport 3 ro
+http://s2.stream.cwdw.live:8080/417/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Discovery ID RO
+http://s2.stream.cwdw.live:8080/418/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Travel Mix RO
+http://s2.stream.cwdw.live:8080/419/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Discovery RO
+http://s2.stream.cwdw.live:8080/420/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Animal Planet RO
+http://s2.stream.cwdw.live:8080/421/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,History RO
+http://s2.stream.cwdw.live:8080/422/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Fishingand Hunting RO
+http://s2.stream.cwdw.live:8080/423/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Megamax RO
+http://s2.stream.cwdw.live:8080/424/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Minimax RO
+http://s2.stream.cwdw.live:8080/425/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Disney Channel RO
+http://s2.stream.cwdw.live:8080/426/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Disney Jr RO
+http://s2.stream.cwdw.live:8080/427/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Zu TV RO
+http://s2.stream.cwdw.live:8080/428/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Boomerang RO
+http://s2.stream.cwdw.live:8080/429/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Music Channel RO
+http://s2.stream.cwdw.live:8080/430/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Favorit TV RO
+http://s2.stream.cwdw.live:8080/431/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Kiss TV RO
+http://s2.stream.cwdw.live:8080/432/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Look Plus RO
+http://s2.stream.cwdw.live:8080/433/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Kanal DHD RO
+http://s2.stream.cwdw.live:8080/436/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Pro TV RO
+http://s2.stream.cwdw.live:8080/437/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Acasa HD RO
+http://s2.stream.cwdw.live:8080/434/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,DIGI Sport 1 HD RO
+http://s2.stream.cwdw.live:8080/441/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,B1 RO
+http://s2.stream.cwdw.live:8080/438/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,TLC RO
+http://s2.stream.cwdw.live:8080/439/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,DIGI Sport 2 HD RO
+http://s2.stream.cwdw.live:8080/440/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Redlight HD
+http://s2.stream.cwdw.live:8080/442/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Hustler HD
+http://s2.stream.cwdw.live:8080/443/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,cento cento
+http://s2.stream.cwdw.live:8080/444/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,dorcel
+http://s2.stream.cwdw.live:8080/445/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,TVR3 RO
+http://s2.stream.cwdw.live:8080/447/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,TVR2 RO
+http://s2.stream.cwdw.live:8080/448/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,TVR1 RO
+http://s2.stream.cwdw.live:8080/449/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,TVH RO
+http://s2.stream.cwdw.live:8080/454/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Sport HD RO
+http://s2.stream.cwdw.live:8080/455/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Romania TV RO
+http://s2.stream.cwdw.live:8080/456/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Realitatea TV RO
+http://s2.stream.cwdw.live:8080/457/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Pro TV HD
+http://s2.stream.cwdw.live:8080/458/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Pro Cinema RO
+http://s2.stream.cwdw.live:8080/459/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Nickelodeon RO
+http://s2.stream.cwdw.live:8080/460/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,National 24 RO
+http://s2.stream.cwdw.live:8080/461/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,MTV Hits RO
+http://s2.stream.cwdw.live:8080/462/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,MTV Rocks RO
+http://s2.stream.cwdw.live:8080/463/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,MTV Dance RO
+http://s2.stream.cwdw.live:8080/464/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,JimJam RO
+http://s2.stream.cwdw.live:8080/465/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Eurosport 2 HD RO
+http://s2.stream.cwdw.live:8080/466/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Acasa Gold RO
+http://s2.stream.cwdw.live:8080/481/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Acasa RO
+http://s2.stream.cwdw.live:8080/482/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Antena 1 RO
+http://s2.stream.cwdw.live:8080/483/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Antena 3 RO
+http://s2.stream.cwdw.live:8080/484/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Antena Stars RO
+http://s2.stream.cwdw.live:8080/485/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,AXN Black RO
+http://s2.stream.cwdw.live:8080/486/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,AXN RO
+http://s2.stream.cwdw.live:8080/487/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,AXN White RO
+http://s2.stream.cwdw.live:8080/488/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Cartoon Network RO
+http://s2.stream.cwdw.live:8080/489/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Cinemax HD RO
+http://s2.stream.cwdw.live:8080/490/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Cinemax 2 RO
+http://s2.stream.cwdw.live:8080/491/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Da Vinci Learning RO
+http://s2.stream.cwdw.live:8080/492/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Dolce Sport 5 RO
+http://s2.stream.cwdw.live:8080/493/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Dolce Sport 6 RO
+http://s2.stream.cwdw.live:8080/494/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,eSTRADA TV RO
+http://s2.stream.cwdw.live:8080/495/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Etno TV HD RO
+http://s2.stream.cwdw.live:8080/496/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Eurosport 1 HD RO
+http://s2.stream.cwdw.live:8080/497/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Happy Channel RO
+http://s2.stream.cwdw.live:8080/498/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,HBO 3 HD RO
+http://s2.stream.cwdw.live:8080/499/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,HBO HD RO
+http://s2.stream.cwdw.live:8080/500/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:-1,Prima TV RO
+http://s2.stream.cwdw.live:8080/501/8022/0e08c74dcc4e479dc00b8e50cdd593d397c27722
+#EXTINF:0,SPORT RO
+http://149.202.196.52:25461/live/I02CzDS14C/EHdAiyOOS0/195.m3u8
+http://185.172.32.254:8001/prime
+http://185.172.32.254:8001/canal2
+http://185.172.32.254:8001/canal3
+http://185.172.32.254:8001/moldova1
+http://185.172.32.254:8001/jurnaltv
+http://185.172.32.254:8001/protv
+http://185.172.32.254:8001/realitatea
+http://185.172.32.254:8001/tvc21
+http://185.172.32.254:8001/rtr
+http://185.172.32.254:8001/accent
+http://185.172.32.254:8001/n4
+http://185.172.32.254:8001/ntvmoldova
+#EXTINF:0,PRO TV CHISINAU
+http://cdn.magictvbox.eu:8080/protv/720p.m3u8
+rtmp://m.live.protv.ro:1935/news/2.stream 
+#EXTINF:0,PRO TV CHISINAU
+http://87.248.160.8/edge/smil:protv/playlist.m3u8
+http://cdn.magictvbox.eu/protv.m3u8
+#EXTINF:-1,Iris
+http://5.255.90.243:5000/play/a028
+#EXTINF:-1,Rai 3 HD
+http://5.255.90.243:5000/play/a02l
+#EXTINF:-1,Canale 5
+http://5.255.90.243:5000/play/a026
+#EXTINF:-1,Cartoonito
+http://5.255.90.243:5000/play/a02f
+#EXTINF:-1,Infinity
+http://5.255.90.243:5000/play/a02i
+#EXTINF:-1,LA7
+http://5.255.90.243:5000/play/a02g
+#EXTINF:-1,Mediaset EXTRA
+http://5.255.90.243:5000/play/a02c
+#EXTINF:-1,Italia 1
+http://5.255.90.243:5000/play/a025
+#EXTINF:-1,Rete 4
+http://5.255.90.243:5000/play/a027
+#EXTINF:-1,LA7d
+http://5.255.90.243:5000/play/a02h
+#EXTINF:-1,TgCom24
+http://5.255.90.243:5000/play/a02b
+#EXTINF:-1,Rai Movie HD
+http://5.255.90.243:5000/play/a02p
+#EXTINF:-1,Rai 5 HD
+http://5.255.90.243:5000/play/a02j
+#EXTINF:-1,Rai 2 HD
+http://5.255.90.243:5000/play/a02k
+#EXTINF:-1,La 5
+http://5.255.90.243:5000/play/a02a
+#EXTINF:-1,Boing
+http://5.255.90.243:5000/play/a029
+#EXTINF:-1,Rai Premium HD
+http://5.255.90.243:5000/play/a02o
+#EXTINF:-1,Rai 4 HD
+http://5.255.90.243:5000/play/a02n
+#EXTINF:-1,Topcrime
+http://5.255.90.243:5000/play/a02e
+#EXTINF:-1,Rai Sport 1 HD
+http://5.255.90.243:5000/play/a02m
+#EXTINF:-1,Mediaset ITALIA DUE
+http://5.255.90.243:5000/play/a02d	
+#EXTINF:0,DIGI FILM
+http://149.202.196.52:25461/live/I02CzDS14C/EHdAiyOOS0/168.m3u8
+http://r1.de.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=168&extension=m3u8&hash=f15fbd7395238de14e2568535d0a0908&time=0&external_device=&pid=3797&on_demand=0
+#EXTINF:0,HBO HD
+http://149.202.196.52:25461/live/I02CzDS14C/EHdAiyOOS0/193.m3u8
+#EXTINF:0,PRIMA TV
+http://89.35.34.254:9005/prima
+#EXTINF:0,ANTENA 1
+http://89.43.138.29/live/playlist13.m3u8
+http://149.202.196.52:25461/live/I02CzDS14C/EHdAiyOOS0/185.m3u8
+#EXTINF:-1,Acasa Tv HD
+http://86.106.82.101:7088/udp/239.80.20.3:5000
+#EXTINF:-1,Boomerang
+http://86.106.82.101:7088/udp/239.80.14.5:5000
+#EXTINF:-1,Digi 24 HD
+http://86.106.82.101:7088/udp/239.80.19.2:5000
+#EXTINF:-1,Digisport 1 HD
+http://86.106.82.101:7088/udp/239.80.20.8:5000
+#EXTINF:-1,Digisport 3
+http://86.106.82.101:7088/udp/239.80.17.2:5000
+#EXTINF:-1,Est Tv
+http://86.106.82.101:7088/udp/239.80.20.1:5000
+#EXTINF:-1,Paramount Channel
+http://86.106.82.101:7088/udp/239.80.18.4:5000
+#EXTINF:-1,Prima Tv
+http://86.106.82.101:7088/udp/239.80.14.4:5000
+#EXTINF:-1,Pro Tv
+http://86.106.82.101:7088/udp/239.80.14.3:5000
+#EXTINF:-1,Procinema
+http://86.106.82.101:7088/udp/239.80.14.2:5000
+#EXTINF:-1,DIGI SPORT 1
+http://89.38.8.130:39440
+#EXTINF:-1,DIGI SPORT 2
+http://89.38.8.131:39559
+#EXTINF:-1,DOLCE SPORT 1
+http://89.38.8.130:39441
+#EXTINF:-1,DOLCE SPORT 1
+http://89.38.8.131:39540
+#EXTINF:-1,DOLCE SPORT 1
+http://89.38.8.130:39422
+#EXTINF:-1,DOLCE SPORT 2
+http://89.38.8.130:39446
+#EXTINF:-1,DOLCE SPORT 2
+http://89.38.8.130:39442
+#EXTINF:-1,EUROSPORT 1
+http://89.38.8.131:39542
+#EXTINF:-1,EUROSPORT 1 HD
+http://89.38.8.130:39425
+#EXTINF:-1,EUROSPORT 2
+http://89.38.8.130:39426
+#EXTINF:-1,EUROSPORT 2 HD
+http://89.38.8.131:39543
+#EXTINF:-1,SPORT RO
+http://89.38.8.130:39430
+#EXTINF:-1,SPORT RO HD
+http://89.38.8.131:39533
+#EXTINF:-1 ,Digi Sport 1
+http://89.38.8.130:39440
+#EXTINF:-1 ,DIGI SPORT 2
+http://89.38.8.131:39559
+#EXTINF:-1 ,DOLCE SPORT 1
+http://89.38.8.130:39441
+#EXTINF:-1 ,DOLCE SPORT 1
+http://89.38.8.131:39540
+#EXTINF:-1 ,DOLCE SPORT 1
+http://89.38.8.130:39422
+#EXTINF:-1 ,DOLCE SPORT 2
+http://89.38.8.130:39446
+#EXTINF:-1 ,DOLCE SPORT 2
+http://89.38.8.130:39442
+#EXTINF:-1 ,EUROSPORT 1
+http://89.38.8.131:39542
+#EXTINF:-1 ,EUROSPORT 1 HD
+http://89.38.8.130:39425
+#EXTINF:-1 ,EUROSPORT 2
+http://89.38.8.130:39426
+#EXTINF:-1 ,EUROSPORT 2 HD
+http://89.38.8.131:39543
+#EXTINF:-1 ,SPORT RO
+http://89.38.8.130:39430
+#EXTINF:-1 ,SPORT RO HD
+http://89.38.8.131:39533
+#EXTINF:-1 ,Fishing & Hunting
+http://89.38.8.131:39498
+#EXTINF:0,ACASA HD
+http://149.202.196.52:25461/live/I02CzDS14C/EHdAiyOOS0/189.m3u8
+#EXTINF:0,TVR HD
+http://149.202.196.52:25461/live/I02CzDS14C/EHdAiyOOS0/190.m3u8
+#EXTINF:-1,Digi Sport 1
+http://85.25.43.23:8080/hls/volex_02.m3u8
+#EXTINF:-1,Digi Sport 2
+http://85.25.43.23:8080/hls/volex_03.m3u8
+#EXTINF:-1,Eurosport 1
+http://149.202.196.52:25461/live/I02CzDS14C/EHdAiyOOS0/188.m3u8
+#EXTINF:-1,Eurosport 1 
+http://85.25.43.23:8080/hls/volex_04.m3u8
+#EXTINF:-1,B1
+http://stream-12.vty.dailymotion.com/21/dc/1/50b7998806361d3ecc0138cc/51fa27d606361d41ae000015/live.isml/events/.m3u8
+#EXTINF:-1,Tvr2
+http://stream-12.vty.dailymotion.com/20/dc/1/50b7998806361d3ecc0138cc/51a6227606361d461d0001af/live.isml/events/.m3u8
+#EXTINF:-1,Tvr3
+http://stream-12.vty.dailymotion.com/27/dc/1/50b7998806361d3ecc0138cc/51a622a594a6f64c0700012e/live.isml/events/.m3u8
+#EXTINF:0,ANTENA 1
+http://stream1.aplay.ro:1935/live/smil:AntenaMonden/playlist.m3u8
+http://iphone-streaming.ustream.tv/ustreamVideo/12584497/streams/live/playlist.m3u8
+#EXTINF:-1,???
+ http://89.45.164.235:8016
+ #EXTINF:-1,???
+ http://89.45.164.235:8035
+ #EXTINF:-1,???
+ http://89.45.164.235:8042
+ #EXTINF:-1,???
+ http://89.45.164.235:8025
+ #EXTINF:-1,???
+ http://89.45.164.235:8034
+ #EXTINF:-1,???
+ http://89.45.164.235:8032
+ #EXTINF:-1,???
+ http://89.45.164.235:8031
+ #EXTINF:-1,???
+ http://89.45.164.235:8040
+ #EXTINF:-1,???
+ http://89.45.164.235:8041
+ #EXTINF:-1,???
+ http://89.45.164.235:8033
+ #EXTINF:-1,???
+ http://89.45.164.235:8450
+#EXTINF:-1,HBO HD
+http://apptvro-001-site1.ctempurl.com/tk/extkjw.php?id=HBOHD
+#EXTINF:-1,HBO ComedyHD
+http://apptvro-001-site1.ctempurl.com/tk/extkjw.php?id=HBOComedyHD
+#EXTINF:-1,TV 1000
+http://apptvro-001-site1.ctempurl.com/tk/extkjw.php?id=TV1000
+#EXTINF:-1,filmbox
+http://apptvro-001-site1.ctempurl.com/tk/extkjw.php?id=FilmBox
+#EXTINF:-1,FilmBox Plus
+http://apptvro-001-site1.ctempurl.com/tk/extkjw.php?id=FilmBoxPlus
+#EXTINF:-1,FilmBox HD
+http://apptvro-001-site1.ctempurl.com/tk/extkjw.php?id=FilmBoxHD
+#EXTINF:-1,TCM
+http://apptvro-001-site1.ctempurl.com/tk/extkjw.php?id=TCM
+#EXTINF:-1,Sundance HD
+http://apptvro-001-site1.ctempurl.com/tk/extkjw.php?id=SundanceHD
+#EXTINF:0,Eurosport
+http://82.76.249.81/digiedge2/eurosportehq/index.m3u8?is=31&src=digi-online.ro&t=00000000000000000000000000000000
+http://edge30.rdsnet.ro/digiedge2/eurosportlq/index.m3u8
+#EXTINF:0,Eurosport 2
+http://82.76.249.81/digiedge2/eurosport2ehq/index.m3u8?is=32&src=digi-online.ro&t=00000000000000000000000000000000
+http://82.76.252.30/digiedge2/eurosport2hq/index.m3u8
+http://edge30.rdsnet.ro/digiedge2/tv1000hq/index.m3u8
+#EXTINF:0,Tvr 1
+http://ORBIT-IPTV.COM:2500/live/bank/bank/2705.ts
+http://178.21.122.94:1935/live/_definst_/tvr1/playlist.m3u8
+http://178.21.122.94:1935/live/_definst_/tvr1/index.m3u8
+http://178.21.122.94:1935/live/_definst_/tvr1/index.m3u
+http://82.76.249.81/digiedge2/tvr1ehq/index.m3u8?is=24&src=digi-online.ro&t=0000000000000000000000000000000
+#EXTINF:0,Tvr 2
+http://178.21.122.94:1935/live/_definst_/tvr2/index.m3u
+http://82.76.249.81/digiedge2/tvr2ehq/index.m3u8?is=38&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,Tvr HD
+http://178.21.122.94:1935/live/_definst_/tvrhd/index.m3u
+http://178.21.120.198:1935/live3/mp4:tvrhd/media_w1662734560.m3u8?is=38&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,Tv 1000
+http://82.76.249.81/digiedge2/tv1000ehq/index.m3u8?is=43&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,Digi Film (Test)
+http://82.76.252.26/tc/7/7hq/index.m3u8
+#EXTINF:0,Digi Life
+http://82.76.249.81/digiedge2/digilifeehq/index.m3u8?is=6&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,Digi World
+http://82.76.249.81/digiedge2/digiworldehq/index.m3u8?is=5&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,Digi Animal World
+http://82.76.249.81/digiedge2/digianimalworldehq/index.m3u8?is=16&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,Nat Geo Wild
+http://82.76.249.81/digiedge2/nationalgeographicwildehq/index.m3u8?is=33&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,National Geographic
+http://82.76.249.81/digiedge2/nationalgeographicehq/index.m3u8?is=19&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,History Channel
+http://82.76.249.81/digiedge2/historychannelehq/index.m3u8?is=20&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,Viasat History
+http://82.76.249.81/digiedge2/viasathistoryehq/index.m3u8?is=41&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,Viasat Nature
+http://82.76.249.81/digiedge2/viasatnatureehq/index.m3u8?is=42&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,Viasat Explore
+http://82.76.249.81/digiedge2/viasatexplorerehq/index.m3u8?is=40&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,Travel Channel
+http://82.76.249.81/digiedge2/travelchannelehq/index.m3u8?is=21&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,Tv Paprika
+http://82.76.249.81/digiedge2/tvpaprikaehq/index.m3u8?is=39&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,Hit Music Channel
+http://82.76.249.81/digiedge2/hitmusicchannelehq/index.m3u8?is=35&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,Music Channel
+http://82.76.249.81/digiedge2/musicchannelehq/index.m3u8?is=25&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,Kiss Tv
+http://82.76.249.81/digiedge2/kisstvehq/index.m3u8?is=34&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,Utv
+http://82.76.249.77/utvedge/utvlive/index.m3u8
+#EXTINF:0,Minimax
+http://82.76.249.81/digiedge2/minimaxehq/index.m3u8?is=37&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,Megamax
+http://82.76.249.81/digiedge2/megamaxehq/index.m3u8?is=47&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,Nickelodeon
+http://82.76.249.81/digiedge2/nickelodeonehq/index.m3u8?is=28&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,Disney Junior
+http://82.76.249.81/digiedge2/disneyjuniorehq/index.m3u8?is=18&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,Disney Channel
+http://82.76.249.81/digiedge2/disneychannelehq/index.m3u8?is=17&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,B1 Tv
+http://82.76.249.81/digiedge2/b1tvehq/index.m3u8?is=29&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,Realitatea Tv
+http://82.76.249.81/digiedge2/realitateatvehq/index.m3u8?is=26&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,Romania Tv
+http://82.76.249.81/digiedge2/romaniatvehq/index.m3u8?is=27&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,Digi 24 Bucuresti
+http://81.196.0.126:80/digi24edge/digi24hdhqhls/index.m3u8
+#EXTINF:0,Digi 24 Constanta
+http://82.76.249.77:80/digi24edge/digi24constantalive/index.m3u8
+#EXTINF:0,Digi 24 Cluj
+http://82.76.249.77:80/digi24edge/digi24clujlive/index.m3u8
+#EXTINF:0,Digi 24 Iasi
+http://82.76.249.77:80/digi24edge/digi24iasilive/index.m3u8
+#EXTINF:0,Digi 24 Brasov
+http://82.76.249.77:80/digi24edge/digi24brasovlive/index.m3u8
+#EXTINF:0,Digi 24 Timisoara
+http://82.76.249.77:80/digi24edge/digi24timislive/index.m3u8
+#EXTINF:0,Digi 24 Craiova
+http://82.76.249.77:80/digi24edge/digi24craiovalive/index.m3u8
+#EXTINF:0,Digi 24 Galati
+http://82.76.249.77:80/digi24edge/digi24galatilive/index.m3u8
+#EXTINF:0,Digi 24 Oradea
+http://82.76.249.77:80/digi24edge/digi24oradealive/index.m3u8
+#EXTINF:0,France 24
+http://82.76.249.81/digiedge2/france24ehq/index.m3u8?is=48&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,Tvr 1
+http://178.21.122.94:1935/live/_definst_/tvr1/playlist.m3u8
+#EXTINF:0,Tvr 2
+http://178.21.122.94:1935/live/_definst_/tvr2/playlist.m3u8
+#EXTINF:0,ETNO
+http://178.21.120.198:1935/live3/mp4:etno/playlist.m3u8
+#EXTINF:0,TVR 1
+http://178.21.122.94:1935/live/_definst_/tvr1/index.m3u8
+#EXTINF:0,TVR 1
+http://178.21.120.198:1935/live3/_definst_/mp4:tvr1/playlist.m3u8
+#EXTINF:0,TVR 1
+http://82.76.249.81/digiedge2/tvr1ehq/index.m3u8?is=24&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,TVR HD
+http://digi-hdsport.hopto.org:1935/live3/_definst_/mp4:tvrhd/playlist.m3u8
+#EXTINF:0,TVR 2
+http://178.21.120.198:1935/live3/_definst_/mp4:tvr2/playlist.m3u8
+#EXTINF:0,TVR 2
+http://82.76.249.81/digiedge2/tvr2ehq/chunklist_w1842848104.m3u8?is=38&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,TVR 3
+http://178.21.120.198:1935/live3/_definst_/mp4:tvr3/playlist.m3u8
+#EXTINF:0,TVR HD
+http://178.21.120.198:1935/live3/_definst_/mp4:tvrhd/playlist.m3u8 
+#EXTINF:0,TVR INT
+http://178.21.120.198:1935/live3/_definst_/mp4:tvr/playlist.m3u8
+#EXTINF:0,B1
+http://178.21.120.198:1935/live3/_definst_/mp4:b1/playlist.m3u8
+#EXTINF:0,NATIONAL TV
+http://178.21.120.198:1935/live3/_definst_/mp4:nationaltv/playlist.m3u8
+#EXTINF:0,COMEDY CENTRAL
+http://178.21.120.198:1935/live3/_definst_/mp4:comedycentral/playlist.m3u8
+#EXTINF:0,COMEDY CENTRAL
+http://178.21.120.198:1935/live3/_definst_/mp4:comedycentral/chunklist_w1878061421.m3u8
+#EXTINF:0,FILM BOX EXTRA
+http://178.21.120.198:1935/live3/_definst_/mp4:filmboxextra/playlist.m3u8
+#EXTINF:0,LOOK TV
+http://178.21.120.198:1935/live3/_definst_/mp4:transilvanialook/playlist.m3u8
+#EXTINF:0,LOOK TV 1
+http://178.21.120.198:1935/live3/_definst_/mp4:transilvanialive/playlist.m3u8
+#EXTINF:0,DIGI SPORT 1
+http://82.76.249.81/digiedge/digisport1ehq/index.m3u8?is=1&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,DIGI SPORT 2
+http://82.76.249.81/digiedge/digisport2ehq/index.m3u8?is=2&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,DIGI SPORT 3
+http://82.76.249.81/digiedge/digisport3ehq/index.m3u8?is=3&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,DIGI SPORT 4
+http://82.76.249.81/digiedge/digisport4ehq/index.m3u8?is=49&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,DOLCE SPORT 1
+http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport/playlist.m3u8
+#EXTINF:0,DOLCE SPORT 2
+http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport2/playlist.m3u8
+#EXTINF:0,DOLCE SPORT 3
+http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport3/playlist.m3u8
+#EXTINF:0,DOLCE SPORT 4
+http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport4/playlist.m3u8
+#EXTINF:0,EUROSPORT 1
+http://82.76.249.81/digiedge2/eurosportehq/index.m3u8?is=31&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,EUROSPORT 2
+http://82.76.249.81/digiedge2/eurosport2ehq/index.m3u8?is=32&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0, ?
+http://80.86.107.169:8100/stream.flv
+#EXTINF:0,TVR 2
+http://82.76.249.81/digiedge2/tvr2ehq/index.m3u8?is=38&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,PRO TV CHISINAU
+http://87.248.160.8/edge/smil:protv/playlist.m3u8
+#EXTINF:0,TVR MOLDOVA
+http://87.248.160.8/edge/smil:tvr/playlist.m3u8
+#EXTINF:0,CANAL 3
+http://87.248.160.8/edge/smil:canal3/playlist.m3u8
+#EXTINF:0,REALITATEA
+http://82.76.249.81/digiedge2/realitateatvehq/index.m3u8?is=26&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,ROMANIA TV
+http://82.76.249.81/digiedge2/romaniatvehq/index.m3u8?is=27&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,B 1
+http://82.76.249.81/digiedge2/b1tvehq/index.m3u8?is=29&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,MINIMAX
+http://82.76.249.81/digiedge2/minimaxehq/index.m3u8?is=37&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,EXPLORER
+http://178.21.120.198:1935/live3/_definst_/mp4:explorer/playlist.m3u8
+#EXTINF:0,NATURE
+http://178.21.120.198:1935/live3/_definst_/mp4:nature/playlist.m3u8
+#EXTINF:0,HISTORY
+http://178.21.120.198:1935/live3/_definst_/mp4:history/playlist.m3u8
+#EXTINF:0,DIGI WORLD
+http://82.76.249.81/digiedge2/digiworldehq/chunklist_w1207478789.m3u8?is=5&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,HISTORY CHANNEL
+http://82.76.249.81/digiedge2/historychannelehq/index.m3u8?is=20&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,NICKELODEON
+http://82.76.249.81/digiedge2/nickelodeonehq/index.m3u8?is=28&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,DISNEY CHANNEL
+http://82.76.249.81/digiedge2/disneychannelehq/index.m3u8?is=17&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,DIGI LIFE
+http://82.76.249.81/digiedge2/digilifeehq/index.m3u8?is=6&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,UTV
+http://82.76.249.77/utvedge/utvlive/index.m3u8
+#EXTINF:0,KISS TV
+http://82.76.249.81/digiedge2/kisstvehq/index.m3u8?is=34&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,MUSIC CHANNEL
+http://82.76.249.81/digiedge2/musicchannelehq/index.m3u8?is=25&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,BUSUIOC TV
+http://87.248.160.8/edge/smil:busuioc/playlist.m3u8
+#EXTINF:0,DIGI SPORT 1
+http://82.76.249.81/digiedge/digisport1ehq/index.m3u8?is=1&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,JURNAL TV
+http://87.248.160.8/edge/smil:jurnaltv/playlist.m3u8
+#EXTINF:0,GOLD T
+http://87.248.160.8/edge/smil:goldtv/playlist.m3u8
+#EXTINF:0,NOROC
+http://87.248.160.8/edge/smil:noroc/playlist.m3u8
+#EXTINF:0,?
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0,CIELO IT
+http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8?hdnea=st=1391525654~exp=1391525954~hmac=66a76ab45c152e235967751a5800a45bc7418918ea2b336f47108464c98db43f
+#EXTINF:0,musicchannel
+http://178.21.120.198:1935/live3/mp4:musicchannel/playlist.m3u8#EXTINF:0,PRO TV TEST
+http://31.223.238.10:8001/1:0:1:3EB:2:1:E0831B3:0:0:0:
+#EXTINF:0,PRO TV TEST
+http://192.168.1.8@31.223.238.10:8001/1:0:1:3EB:2:1:E0831B3:0:0:0:
+#EXTINF:0,TVR INTE   sdp
+rtsp://77.36.61.18:554/tvrinternational.sdp
+#EXTINF:0,test disney ch
+rtmp://195.154.217.247:80/liverepeater<playpath>128623 <swfUrl>http://cdn.deltatv.pw/players.swf <pageUrl>http://deltatv.pw/stream.php?id=128623&width=700&height=440
+#EXTINF:0,test look tv hd
+rtmp://195.154.180.99:80/liverepeater<playpath>128605 <swfUrl>http://cdn.deltatv.pw/players.swf <pageUrl>http://deltatv.pw/stream.php?id=128605&width=700&height=440 <objectEncoding>
+#EXTINF:-1,Look Tv
+ http://178.21.120.198:1935/live3/_definst_/mp4:transilvanialook/playlist.m3u8
+ #EXTINF:-1,Look Plus
+ http://178.21.120.198:1935/live3/_definst_/mp4:transilvanialive/playlist.m3u8
+ #EXTINF:-1,Tvr 1
+ http://178.21.120.198:1935/live3/_definst_/mp4:tvr1/playlist.m3u8
+ #EXTINF:-1,Tvr 2
+ http://178.21.120.198:1935/live3/_definst_/mp4:tvr2/playlist.m3u8
+ #EXTINF:-1,Kanal D
+ http://178.21.120.198:1935/live3/_definst_/mp4:kanald/playlist.m3u8
+ #EXTINF:-1,National Tv
+ http://178.21.120.198:1935/live3/_definst_/mp4:nationaltv/playlist.m3u8
+ #EXTINF:-1,Tv H
+ http://178.21.120.198:1935/live3/_definst_/mp4:tvh/playlist.m3u8
+ #EXTINF:-1,Neptun Tv
+ http://178.21.120.198:1935/live3/_definst_/mp4:neptuntv/playlist.m3u8
+ #EXTINF:-1,Tv 1000
+ http://178.21.120.198:1935/live3/_definst_/mp4:tv1000/playlist.m3u8
+ #EXTINF:-1,Axn
+ http://178.21.120.198:1935/live3/_definst_/mp4:axn/playlist.m3u8
+ #EXTINF:-1,Axn White
+ http://178.21.120.198:1935/live3/_definst_/mp4:axncrime/playlist.m3u8
+ #EXTINF:-1,Axn Black
+ http://178.21.120.198:1935/live3/_definst_/mp4:axnscifi/playlist.m3u8
+ #EXTINF:-1,Axn Spin
+ http://178.21.120.198:1935/live3/_definst_/mp4:axnspin/playlist.m3u8
+ #EXTINF:-1,Comedy Central
+ http://178.21.120.198:1935/live3/_definst_/mp4:comedycentral/playlist.m3u8
+ #EXTINF:-1,Tcm (Offline)
+ http://178.21.120.198:1935/live3/_definst_/mp4:tcm/playlist.m3u8
+ #EXTINF:-1,Bollywood Tv HD
+ http://178.21.120.198:1935/live3/_definst_/mp4:bollywoodhd/playlist.m3u8
+ #EXTINF:-1,Bollywood Tv
+ http://178.21.120.198:1935/live3/_definst_/mp4:bollywoodtv/playlist.m3u8
+ #EXTINF:-1,Bollywood Film
+ http://178.21.120.198:1935/live3/_definst_/mp4:bollywoodfilm/playlist.m3u8
+ #EXTINF:-1,Bollywood Classic
+ http://178.21.120.198:1935/live3/_definst_/mp4:bollywoodclasic/playlist.m3u8
+ #EXTINF:-1,Film Box HD (Offline)
+ http://178.21.120.198:1935/live3/_definst_/mp4:filmboxhd/playlist.m3u8
+ #EXTINF:-1,Film Box (Offline)
+ http://178.21.120.198:1935/live3/_definst_/mp4:filmbox/playlist.m3u8
+ #EXTINF:-1,Film Box Family (Offline)
+ http://178.21.120.198:1935/live3/_definst_/mp4:filmboxfamily/playlist.m3u8
+ #EXTINF:-1,Film Box Extra
+ http://178.21.120.198:1935/live3/_definst_/mp4:filmboxextra/playlist.m3u8
+ #EXTINF:-1,Docu Box (Offline)
+ http://178.21.120.198:1935/live3/_definst_/mp4:DocuBox/playlist.m3u8
+ #EXTINF:-1,Tlc (Offline)
+ http://178.21.120.198:1935/live3/_definst_/mp4:tlc/playlist.m3u8
+ #EXTINF:-1,Bbc Knowledge (Offline)
+ http://178.21.120.198:1935/live3/_definst_/mp4:bbcknowledge/playlist.m3u8
+ #EXTINF:-1,Viasat History
+ http://178.21.120.198:1935/live3/_definst_/mp4:history/playlist.m3u8
+ #EXTINF:-1,Viasat Explore
+ http://178.21.120.198:1935/live3/_definst_/mp4:explorer/playlist.m3u8
+ #EXTINF:-1,Viasat Nature
+ http://178.21.120.198:1935/live3/_definst_/mp4:nature/playlist.m3u8
+ #EXTINF:-1,Animal Planet
+ http://178.21.120.198:1935/live3/_definst_/mp4:animalplanet/playlist.m3u8
+ #EXTINF:-1,Discovery Channel (Offline)
+ http://178.21.120.198:1935/live3/_definst_/mp4:discovery/playlist.m3u8
+ #EXTINF:-1,Discovery World
+ http://178.21.120.198:1935/live3/_definst_/mp4:discoveryworld/playlist.m3u8
+ #EXTINF:-1,Discovery ID (Offline)
+ http://178.21.120.198:1935/live3/_definst_/mp4:discoveryinvestigations/playlist.m3u8
+ #EXTINF:-1,Discovery Science
+ http://178.21.120.198:1935/live3/_definst_/mp4:discoveryscience/playlist.m3u8
+ #EXTINF:-1,Travel Channel
+ http://178.21.120.198:1935/live3/_definst_/mp4:travelchannel/playlist.m3u8
+ #EXTINF:-1,Travel Mix
+ http://178.21.120.198:1935/live3/_definst_/mp4:travelmix/playlist.m3u8
+ #EXTINF:-1,Shorts Tv (Offline)
+ http://178.21.120.198:1935/live3/_definst_/mp4:shortstv/playlist.m3u8
+ #EXTINF:-1,Nick Jr
+ http://178.21.120.198:1935/live3/_definst_/mp4:nickjr/playlist.m3u8
+ #EXTINF:-1,Nickelodeon
+ http://178.21.120.198:1935/live3/_definst_/mp4:nickelodeon/playlist.m3u8
+ #EXTINF:-1,Boomerang (Offline)
+ http://178.21.120.198:1935/live3/_definst_/mp4:bomerang/playlist.m3u8
+ #EXTINF:-1,Cartoon Network (Offline)
+ http://178.21.120.198:1935/live3/_definst_/mp4:cartoon/playlist.m3u8
+ #EXTINF:-1,Disney Junior
+ http://178.21.120.198:1935/live3/_definst_/mp4:disneyjr/playlist.m3u8
+ #EXTINF:-1,Disney Channel
+ http://178.21.120.198:1935/live3/_definst_/mp4:disney/playlist.m3u8
+ #EXTINF:-1,Hit Music Channel
+ http://178.21.120.198:1935/live3/_definst_/mp4:hitmusicch/playlist.m3u8
+ #EXTINF:-1,1 Music Channel
+ http://178.21.120.198:1935/live3/_definst_/mp4:musicchannel/playlist.m3u8
+ #EXTINF:-1,Mooz HD (Offline)
+ http://178.21.120.198:1935/live3/_definst_/mp4:moozhd/playlist.m3u8
+ #EXTINF:-1,Mooz Ro (Offline)
+ http://178.21.120.198:1935/live3/_definst_/mp4:moozro/playlist.m3u8
+ #EXTINF:-1,Mooz Hits (Offline)
+ http://178.21.120.198:1935/live3/_definst_/mp4:moozhits/playlist.m3u8
+ #EXTINF:-1,Mooz Dance
+ http://178.21.120.198:1935/live3/_definst_/mp4:moozdance/playlist.m3u8
+ #EXTINF:-1,Kiss Tv
+ http://178.21.120.198:1935/live3/_definst_/mp4:kiss/playlist.m3u8
+ #EXTINF:-1,Utv
+ http://178.21.120.198:1935/live3/_definst_/mp4:utv/playlist.m3u8
+ #EXTINF:-1,Taraf
+ http://178.21.120.198:1935/live3/_definst_/mp4:taraf/playlist.m3u8
+ #EXTINF:-1,Etno Tv
+ http://178.21.120.198:1935/live3/_definst_/mp4:etno/playlist.m3u8
+ #EXTINF:-1,Favorit
+ http://178.21.120.198:1935/live3/_definst_/mp4:favorit/playlist.m3u8
+ #EXTINF:-1,Inedit Tv
+ http://178.21.120.198:1935/live3/_definst_/mp4:inedittv/playlist.m3u8
+ #EXTINF:-1,N24 Plus
+ http://178.21.120.198:1935/live3/_definst_/mp4:n24/playlist.m3u8
+ #EXTINF:-1,Tvr Moldova
+ http://178.21.120.198:1935/live3/_definst_/mp4:tvrmoldova/playlist.m3u8
+ #EXTINF:-1,Tvr 3
+ http://178.21.120.198:1935/live3/_definst_/mp4:tvr3/playlist.m3u8
+ #EXTINF:-1,Tvr Int (Offline)
+ http://178.21.120.198:1935/live3/_definst_/mp4:tvri/playlist.m3u8
+ #EXTINF:-1,B1 Tv
+ http://178.21.120.198:1935/live3/_definst_/mp4:b1/playlist.m3u8
+ #EXTINF:-1,Nasul Tv
+ http://178.21.120.198:1935/live3/_definst_/mp4:nasultv/playlist.m3u8
+ #EXTINF:-1,Digi 24
+ http://178.21.120.198:1935/live3/_definst_/mp4:digi24/playlist.m3u8
+ #EXTINF:-1,Realitatea Tv
+ http://178.21.120.198:1935/live3/_definst_/mp4:realitatea/playlist.m3u8
+ #EXTINF:-1,Romania Tv
+ http://178.21.120.198:1935/live3/_definst_/mp4:rtv/playlist.m3u8
+ #EXTINF:-1,Publika Tv
+ http://178.21.120.198:1935/live3/_definst_/mp4:publikatv/playlist.m3u8
+ #EXTINF:-1,Tv City
+ http://178.21.120.198:1935/live3/_definst_/mp4:citytv/playlist.m3u8
+ #EXTINF:-1,Tvr Cluj
+ http://178.21.120.198:1935/live3/_definst_/mp4:tvrcluj/playlist.m3u8
+ #EXTINF:-1,Tvr Iasi
+ http://178.21.120.198:1935/live3/_definst_/mp4:tvriasi/playlist.m3u8
+ #EXTINF:-1,Tvr Tg. Mures
+ http://178.21.120.198:1935/live3/_definst_/mp4:tvrmures/playlist.m3u8
+ #EXTINF:-1,Tvr Craiova
+ http://178.21.120.198:1935/live3/_definst_/mp4:tvrcraiova/playlist.m3u8
+ #EXTINF:-1,Tvr Timisoara
+ http://178.21.120.198:1935/live3/_definst_/mp4:tvrtimisoara/playlist.m3u8
+ #EXTINF:-1,Alfa si Omega
+ http://178.21.120.198:1935/live3/_definst_/mp4:alfatv/playlist.m3u8
+ #EXTINF:-1,Trinitas
+ http://178.21.120.198:1935/live3/_definst_/mp4:trinitas/playlist.m3u8
+ #EXTINF:-1,Speranta Tv
+ http://178.21.120.198:1935/live3/_definst_/mp4:sperantatv/playlist.m3u8
+ #EXTINF:-1,Credo Tv
+ http://178.21.120.198:1935/live3/_definst_/mp4:credotv/playlist.m3u8
+ #EXTINF:-1,Fashion Box (Offline)
+ http://178.21.120.198:1935/live3/_definst_/mp4:FashionBox/playlist.m3u8
+ #EXTINF:-1,Fashion Tv
+ http://178.21.120.198:1935/live3/_definst_/mp4:fashiontv/playlist.m3u8
+ #EXTINF:-1,France 24
+ http://178.21.120.198:1935/live3/_definst_/mp4:france24/playlist.m3u8
+ #EXTINF:-1,Tv 5
+ http://178.21.120.198:1935/live3/_definst_/mp4:tv5/playlist.m3u8
+ #EXTINF:-1,Dw
+ http://178.21.120.198:1935/live3/_definst_/mp4:dw/playlist.m3u8
+#EXTINF:-1, Digi Sport 1
+ http://82.76.249.81/digiedge/digisport1ehq/index.m3u8?is=1&src=digi-online.ro&t=00000000000000000000000000000000
+ #EXTINF:-1, Digi Sport 2
+ http://82.76.249.81/digiedge/digisport2ehq/index.m3u8?is=2&src=digi-online.ro&t=00000000000000000000000000000000
+ #EXTINF:-1, Digi Sport 3
+ http://82.76.249.81/digiedge/digisport3ehq/index.m3u8?is=3&src=digi-online.ro&t=00000000000000000000000000000000
+ #EXTINF:-1, Digi Sport 4
+ http://82.76.249.81/digiedge/digisport4ehq/index.m3u8?is=49&src=digi-online.ro&t=00000000000000000000000000000000
+ #EXTINF:-1, Eurosport
+ http://82.76.249.81/digiedge2/eurosportehq/index.m3u8?is=31&src=digi-online.ro&t=00000000000000000000000000000000
+ #EXTINF:-1, Eurosport 2
+ http://82.76.249.81/digiedge2/eurosport2ehq/index.m3u8?is=32&src=digi-online.ro&t=00000000000000000000000000000000
+ #EXTINF:-1, Tvr 1
+ http://82.76.249.81/digiedge2/tvr1ehq/index.m3u8?is=24&src=digi-online.ro&t=0000000000000000000000000000000
+ #EXTINF:-1, Tvr 2
+ http://82.76.249.81/digiedge2/tvr2ehq/index.m3u8?is=38&src=digi-online.ro&t=00000000000000000000000000000000
+ #EXTINF:-1, Tv 1000
+ http://82.76.249.81/digiedge2/tv1000ehq/index.m3u8?is=43&src=digi-online.ro&t=00000000000000000000000000000000
+ #EXTINF:-1, Digi Film (Test)
+ http://82.76.252.26/tc/7/7hq/index.m3u8
+ #EXTINF:-1, Digi Life
+ http://82.76.249.81/digiedge2/digilifeehq/index.m3u8?is=6&src=digi-online.ro&t=00000000000000000000000000000000
+ #EXTINF:-1, Digi World
+ http://82.76.249.81/digiedge2/digiworldehq/index.m3u8?is=5&src=digi-online.ro&t=00000000000000000000000000000000
+ #EXTINF:-1, Digi Animal World
+ http://82.76.249.81/digiedge2/digianimalworldehq/index.m3u8?is=16&src=digi-online.ro&t=00000000000000000000000000000000
+ #EXTINF:-1, Nat Geo Wild
+ http://82.76.249.81/digiedge2/nationalgeographicwildehq/index.m3u8?is=33&src=digi-online.ro&t=00000000000000000000000000000000
+ #EXTINF:-1, National Geographic
+ http://82.76.249.81/digiedge2/nationalgeographicehq/index.m3u8?is=19&src=digi-online.ro&t=00000000000000000000000000000000
+ #EXTINF:-1, History Channel
+ http://82.76.249.81/digiedge2/historychannelehq/index.m3u8?is=20&src=digi-online.ro&t=00000000000000000000000000000000
+ #EXTINF:-1, Viasat History
+ http://82.76.249.81/digiedge2/viasathistoryehq/index.m3u8?is=41&src=digi-online.ro&t=00000000000000000000000000000000
+ #EXTINF:-1, Viasat Nature
+ http://82.76.249.81/digiedge2/viasatnatureehq/index.m3u8?is=42&src=digi-online.ro&t=00000000000000000000000000000000
+ #EXTINF:-1, Viasat Explore
+ http://82.76.249.81/digiedge2/viasatexplorerehq/index.m3u8?is=40&src=digi-online.ro&t=00000000000000000000000000000000
+ #EXTINF:-1, Travel Channel
+ http://82.76.249.81/digiedge2/travelchannelehq/index.m3u8?is=21&src=digi-online.ro&t=00000000000000000000000000000000
+ #EXTINF:-1, Tv Paprika
+ http://82.76.249.81/digiedge2/tvpaprikaehq/index.m3u8?is=39&src=digi-online.ro&t=00000000000000000000000000000000
+ #EXTINF:-1, Hit Music Channel
+ http://82.76.249.81/digiedge2/hitmusicchannelehq/index.m3u8?is=35&src=digi-online.ro&t=00000000000000000000000000000000
+ #EXTINF:-1, Music Channel
+ http://82.76.249.81/digiedge2/musicchannelehq/index.m3u8?is=25&src=digi-online.ro&t=00000000000000000000000000000000
+ #EXTINF:-1, Kiss Tv
+ http://82.76.249.81/digiedge2/kisstvehq/index.m3u8?is=34&src=digi-online.ro&t=00000000000000000000000000000000
+ #EXTINF:-1, Utv
+ http://82.76.249.77/utvedge/utvlive/index.m3u8
+ #EXTINF:-1, Minimax
+ http://82.76.249.81/digiedge2/minimaxehq/index.m3u8?is=37&src=digi-online.ro&t=00000000000000000000000000000000
+ #EXTINF:-1, Megamax
+ http://82.76.249.81/digiedge2/megamaxehq/index.m3u8?is=47&src=digi-online.ro&t=00000000000000000000000000000000
+ #EXTINF:-1, Nickelodeon
+ http://82.76.249.81/digiedge2/nickelodeonehq/index.m3u8?is=28&src=digi-online.ro&t=00000000000000000000000000000000
+ #EXTINF:-1, Disney Junior
+ http://82.76.249.81/digiedge2/disneyjuniorehq/index.m3u8?is=18&src=digi-online.ro&t=00000000000000000000000000000000
+ #EXTINF:-1, Disney Channel
+ http://82.76.249.81/digiedge2/disneychannelehq/index.m3u8?is=17&src=digi-online.ro&t=00000000000000000000000000000000
+ #EXTINF:-1, B1 Tv
+ http://82.76.249.81/digiedge2/b1tvehq/index.m3u8?is=29&src=digi-online.ro&t=00000000000000000000000000000000
+ #EXTINF:-1, Realitatea Tv
+ http://82.76.249.81/digiedge2/realitateatvehq/index.m3u8?is=26&src=digi-online.ro&t=00000000000000000000000000000000
+ #EXTINF:-1, Romania Tv
+ http://82.76.249.81/digiedge2/romaniatvehq/index.m3u8?is=27&src=digi-online.ro&t=00000000000000000000000000000000
+http://webmobile.xdev.ro:81/tv5/playlist.m3u8
+http://95.77.16.72:81/tv15/playlist.m3u8
+http://46.214.146.46:81/tv2/playlist.m3u8
+http://46.214.146.46:81/tv4/playlist.m3u8
+http://95.77.16.72:81/tv20/playlist.m3u8
+http://webmobile.xdev.ro:81/tv16/playlist.m3u8
+http://webmobile.xdev.ro:81/tv11/playlist.m3u8
+http://webmobile.xdev.ro:81/tv9/playlist.m3u8
+http://95.77.16.72:81/tv15/playlist.m3u8
+http://46.214.146.46:81/tv2/playlist.m3u8
+http://46.214.146.46:81/tv4/playlist.m3u8
+http://95.77.16.72:81/tv20/playlist.m3u8
+http://webmobile.xdev.ro:81/tv16/playlist.m3u8
+http://webmobile.xdev.ro:81/tv11/playlist.m3u8
+http://webmobile.xdev.ro:81/tv9/playlist.m3u8
+Balkanic Music
+http://74.122.193.208:1935/DrundooDVR/_definst_/smil:776c511d-aee0-4e33-a44e-265e464c0a28.smil/playlist.m3u8
+http://145.255.200.18:4022/udp/224.10.20.38:5000
+http://188.192.216.114:8001/1:0:1:D03A:2725:F001:FFFF0000:0:0:0
+http://wedigitaltv.ddns.net:8001/1:0:1:3FB:1:1:E08318F:0:0:0:
+http://77.57.0.33:8001/1:0:16:2A7:37:1:88562:0:0:0:
+http://77.22.136.123:8001/1:0:1:D03A:2725:F001:FFFF0000:0:0:0:
+http://wedigitaltv.ddns.net:8001/1:0:1:3EC:7:1:E08313F:0:0:0:
+http://wedigitaltv.ddns.net:8001/1:0:1:7797:2C2:600:E080000:0:0:0:
+http://wedigitaltv.ddns.net:8001/1:0:19:791D:2C6:600:E080000:0:0:0:
+http://85.224.161.13:8001/1:0:1:45a:2a:a027:ffff0000:0:0:0:
+http://85.229.26.40:8001/1:0:1:1770:7:1:fff6313f:0:0:0:
+http://85.229.26.40:8001/1:0:1:7797:2c2:600:fff60000:0:0:0:
+http://85.229.26.40:8001/1:0:1:7725:2c1:600:fff60000:0:0:0:
+http://85.229.26.40:8001/1:0:1:3eb:2:1:fff631b3:0:0:0:
+http://85.229.26.40:8001/1:0:1:759d:2bd:600:fff60000:0:0:0:
+http://81.92.105.135:5555/pl.m3u8?channel=176&key=7mLk4Wl8bgIyHz982qf6otOV7HhME8&client=DEVICE_MAC
+rtmp://apenas69.112stream.com:69/fail/_definst_/709912365539616
+rtmp://apenas69.112stream.com:69/fail/_definst_/117483348303125
+http://webdigitaltv.myftp.org:8001/1:0:1:78BE:2C5:600:E080000:0:0:0:
+http://wedigitaltv.ddns.net:8001/1:0:1:492:7:1:E08313F:0:0:0:
+http://178.193.82.0:8001/1:0:1:3E22:2EE0:13E:820000:0:0:0:
+http://178.193.82.0:8001/1:0:1:132C:33F4:13E:820000:0:0:0:
+http://178.193.82.0:8001/1:0:1:125D:3458:13E:820000:0:0:0:
+http://84.73.39.217:8001/1:0:1:125D:3458:13E:820000:0:0:0:
+http://84.73.39.217:8001/1:0:1:132C:33F4:13E:820000:0:0:0:
+http://84.75.154.25:8001/1:0:1:125D:3458:13E:820000:0:0:0:
+http://88.203.1.77:8001/1:0:1:125D:3458:13E:820000:0:0:0:
+http://88.203.1.77:8001/1:0:1:1770:7:1:E08313F:0:0:0:
+http://88.203.1.77:8001/1:0:1:3EB:2:1:E0831B3:0:0:0:
+http://88.203.106.163:8001/1:0:1:3EB:2:1:E0831B3:0:0:0:
+http://88.203.1.77:8001/1:0:1:76C2:2C0:600:E080000:0:0:0:
+http://88.203.106.163:8001/1:0:1:1:C8:1:A0ACF8:0:0:0:
+http://88.203.107.191:8001/1:0:1:2B6B:19C8:FBFF:820000:0:0:0:
+http://88.203.107.191:8001/1:0:16:5:1F4:5:A00000:0:0:0:
+http://88.203.108.187:8001/1:0:1:2B6B:19C8:FBFF:820000:0:0:0:
+http://88.203.108.187:8001/1:0:1:3EB:2:1:E0831B3:0:0:0:
+http://88.203.108.187:8001/1:0:16:5:1F4:5:A00000:0:0:0:
+http://88.203.108.187:8001/1:0:1:168:E:1C:1860000:0:0:0:
+http://88.203.108.187:8001/1:0:1:1DB1:145C:5:13B0000:0:0:0:
+http://88.203.109.122:8001/1:0:16:5:1F4:5:A00000:0:0:0:
+http://88.203.109.122:8001/1:0:1:2B5D:19C8:FBFF:820000:0:0:0:
+http://88.203.109.122:8001/1:0:1:2DC3:1A2C:FBFF:820000:0:0:0:
+http://88.203.108.187:8001/1:0:1:8:1:1:DE82A5A:0:0:0:
+http://90.209.212.12:8001/1:0:1:125D:3458:13E:820000:0:0:0:
+http://wedigitaltv.ddns.net:8001/1:0:1:1770:7:1:E08313F:0:0:0:
+http://wedigitaltv.ddns.net:8001/1:0:1:400:2:1:E0831B3:0:0:0:
+http://webmediatv.webhop.me:8001/1:0:1:FFA:D:1:E082E2F:0:0:0:
+http://webmediatv.webhop.me:8001/1:0:1:3EB:2:1:E0831B3:0:0:0:
+http://webmediatv.webhop.me:8001/1:0:1:3EE:1:1:E08318F:0:0:0:
+http://wedigitaltv.ddns.net:8001/1:0:1:3EE:1:1:E08318F:0:0:0:
+http://wedigitaltv.ddns.net:8001/1:0:1:76C6:2C0:600:E080000:0:0:0:
+http://wedigitaltv.ddns.net:8001/1:0:1:76CC:2C0:600:E080000:0:0:0:
+http://webmediatv.webhop.me:8001/1:0:1:76CC:2C0:600:E080000:0:0:0:
+http://wedigitaltv.ddns.net:8001/1:0:1:76C6:2C0:600:E080000:0:0:0:
+http://webdigitaltv.myftp.org:8001/1:0:19:791D:2C6:600:E080000:0:0:0:
+http://webdigitaltv.myftp.org:8001/1:0:1:7797:2C2:600:E080000:0:0:0:
+http://wedigitaltv.ddns.net:8001/1:0:1:400:2:1:E0831B3:0:0:0:
+http://webdigitaltv.myftp.org:8001/1:0:1:7595:2BD:600:E080000:0:0:0:
+http://webdigitaltv.myftp.org:8001/1:0:19:791D:2C6:600:E080000:0:0:0:
+http://webdigitaltv.myftp.org:8001/1:0:1:D98:C:1:E082E7C:0:0:0:
+http://webdigitaltv.myftp.org:8001/1:0:1:40A:7:1:E08313F:0:0:0:
+http://wedigitaltv.ddns.net:8001/1:0:1:400:2:1:E0831B3:0:0:0:
+http://webmediatv.webhop.me:8001/1:0:1:3FF:2:1:E0831B3:0:0:0:
+http://webmediatv.webhop.me:8001/1:0:1:177A:7:1:E08313F:0:0:0:
+http://webmediatv.webhop.me:8001/1:0:1:785C:2C4:600:E080000:0:0:0:
+http://webdigitaltv.myftp.org:8001/1:0:1:C58:A:1:E08B113:0:0:0:
+http://wedigitaltv.ddns.net:8001/1:0:1:766C:2BF:600:E080000:0:0:0:
+http://webmediatv.webhop.me:8001/1:0:1:1770:7:1:E08313F:0:0:0:
+http://webmediatv.webhop.me:8001/1:0:1:77F1:2C3:600:E080000:0:0:0:
+http://wedigitaltv.ddns.net:8001/1:0:1:2B6B:19C8:FBFF:820000:0:0:0:
+http://46.126.104.20:8001/1:0:1:2B6B:19C8:FBFF:820000:0:0:0:
+http://46.126.104.20:8001/1:0:1:2B5D:19C8:FBFF:820000:0:0:0:
+http://46.126.104.20:8001/1:0:1:2DCD:1A2C:FBFF:820000:0:0:0:
+http://92.110.135.141:8001/1:0:1:2B6B:19C8:FBFF:820000:0:0:0:
+http://88.203.106.163:8001/1:0:1:2B6B:19C8:FBFF:820000:0:0:0:
+http://88.203.31.90:8001/1:0:1:2B6B:19C8:FBFF:820000:0:0:0:
+http://88.203.25.132:8001/1:0:1:2B6B:19C8:FBFF:820000:0:0:0:
+http://88.203.106.163:8001/1:0:1:2B5D:19C8:FBFF:820000:0:0:0:
+http://92.110.135.141:8001/1:0:1:2DC3:1A2C:FBFF:820000:0:0:0:
+http://92.110.135.141:8001/1:0:1:2B5D:19C8:FBFF:820000:0:0:0:
+http://92.110.135.141:8001/1:0:1:584:320:FBFF:820000:0:0:0:
+http://92.110.135.141:8001/1:0:1:2B63:19C8:FBFF:820000:0:0:0:
+http://92.110.135.141:8001/1:0:1:2DCD:1A2C:FBFF:820000:0:0:0:
+http://92.110.135.141:8001/1:0:1:2DCC:1A2C:FBFF:820000:0:0:0:
+http://92.110.135.141:8001/1:0:1:584:320:FBFF:820000:0:0:0:
+http://92.110.135.141:8001/1:0:1:2DC6:1A2C:FBFF:820000:0:0:0:
+http://92.110.135.141:8001/1:0:1:2B65:19C8:FBFF:820000:0:0:0:
+http://92.110.135.141:8001/1:0:1:2B63:19C8:FBFF:820000:0:0:0:
+http://92.110.135.141:8001/1:0:1:2B61:19C8:FBFF:820000:0:0:0:
+http://92.110.135.141:8001/1:0:1:2DCC:1A2C:FBFF:820000:0:0:0:
+http://92.110.135.141:8001/1:0:1:2B5D:19C8:FBFF:820000:0:0:0:
+http://95.107.206.125:8001/1:0:1:2B6B:19C8:FBFF:820000:0:0:0:
+http://178.193.82.0:8001/1:0:1:B:2:85:C00000:0:0:0:
+http://178.83.209.88:8001/1:0:1:151:3B:1:FFFF01C2:0:0:0:
+http://178.193.82.0:8001/1:0:1:213F:3070:13E:820000:0:0:0
+http://178.193.82.0:8001/1:0:1:2:3DE:110:820000:0:0:0:
+http://178.193.82.0:8001/1:0:1:5:3DE:110:820000:0:0:0:
+http://178.83.209.88:8001/1:0:1:207:3B:1:FFFF01C2:0:0:0:
+http://178.83.209.88:8001/1:0:1:150:3B:1:FFFF01C2:0:0:0:
+http://178.83.209.88:8001/1:0:1:143:A4:1:FFFF01B2:0:0:0:
+http://178.83.209.88:8001/1:0:1:144:A4:1:FFFF01B2:0:0:0:
+http://178.193.82.0:8001/1:0:1:9:3DE:110:820000:0:0:0:
+http://178.193.82.0:8001/1:0:1:A:3DE:110:820000:0:0:0:
+http://178.193.82.0:8001/1:0:1:D52:1450:13E:820000:0:0:0:
+http://178.193.82.0:8001/1:0:1:2BCF:1A90:FBFF:820000:0:0:0:
+http://178.193.82.0:8001/1:0:1:CE5:1518:13E:820000:0:0:0:
+http://178.193.82.0:8001/1:0:1:CEA:1518:13E:820000:0:0:0:
+http://78.22.30.124:8001/1:0:1:5:3DE:110:820000:0:0:0:
+http://wedigitaltv.ddns.net:8001/1:0:1:2DC3:1A2C:FBFF:820000:0:0:0:
+http://wedigitaltv.ddns.net:8001/1:0:1:2DCC:1A2C:FBFF:820000:0:0:0:
+http://wedigitaltv.ddns.net:8001/1:0:1:2DCA:1A2C:FBFF:820000:0:0:0:
+http://webmediatv.webhop.me:8001/1:0:1:2B63:19C8:FBFF:820000:0:0:0:
+http://webdigitaltv.myftp.org:8001/1:0:1:2DCD:1A2C:FBFF:820000:0:0:0:
+http://webmediatv.webhop.me:8001/1:0:1:2DCD:1A2C:FBFF:820000:0:0:0:
+http://webdigitaltv.myftp.org:8001/1:0:1:2B61:19C8:FBFF:820000:0:0:0:
+http://webdigitaltv.myftp.org:8001/1:0:1:2DCC:1A2C:FBFF:820000:0:0:0:
+http://wedigitaltv.ddns.net:8001/1:0:1:2B6B:19C8:FBFF:820000:0:0:0:
+http://wedigitaltv.ddns.net:8001/1:0:1:2DC3:1A2C:FBFF:820000:0:0:0:
+http://84.113.157.208:8001/1:0:1:2B73:19C8:FBFF:820000:0:0:0:
+http://84.113.157.208:8001/1:0:1:2B6B:19C8:FBFF:820000:0:0:0:
+http://84.113.157.208:8001/1:0:1:2DB9:1A2C:FBFF:820000:0:0:0:
+http://213.112.191.90:8001/1:0:1:2B6B:19C8:FBFF:820000:0:0:0:
+http://2.237.43.198:8001/1:0:1:2B73:19C8:FBFF:820000:0:0:0:
+http://2.237.43.198:8001/1:0:1:2C38:251C:FBFF:820000:0:0:0:
+http://2.237.43.198:8001/1:0:19:1E5B:15E0:FBFF:820000:0:0:0:
+http://213.112.210.40:8001/1:0:1:3F6:7:1:E08313F:0:0:0:
+http://213.112.210.40:8001/1:0:1:1770:7:1:E08313F:0:0:0:
+http://213.112.196.100:8001/1:0:1:48B:35:A027:FFFF0000:0:0:0:
+http://2.237.41.250:8001/1:0:1:2B73:19C8:FBFF:820000:0:0:0:
+http://2.237.232.59:8001/1:0:1:584:320:FBFF:820000:0:0:0:
+http://2.226.195.91:8001/1:0:1:13FD:3B6:110:EEEE0000:0:0:0:
+http://178.193.82.0:8001/1:0:1:2201:44C:1:C00000:0:0:0:
+http://wedigitaltv.ddns.net:8001/1:0:1:3F5:7:1:E08313F:0:0:0:
+http://wedigitaltv.ddns.net:8001/1:0:19:FB4:D:1:E082E2F:0:0:0:
+http://wedigitaltv.ddns.net:8001/1:0:1:3F2:1:1:E08318F:0:0:0:
+http://wedigitaltv.ddns.net:8001/1:0:19:FDC:D:1:E082E2F:0:0:0:
+http://wedigitaltv.ddns.net:8001/1:0:1:40C:C:1:E082E7C:0:0:0:
+http://wedigitaltv.ddns.net:8001/1:0:1:C58:A:1:E08B113:0:0:0:
+http://wedigitaltv.ddns.net:8001/1:0:1:400:2:1:E0831B3:0:0:0:
+http://wedigitaltv.ddns.net:8001/1:0:1:7595:2BD:600:E080000:0:0:0:
+http://wedigitaltv.ddns.net:8001/1:0:19:791D:2C6:600:E080000:0:0:0:
+http://wedigitaltv.ddns.net:8001/1:0:1:40A:7:1:E08313F:0:0:0:
+http://wedigitaltv.ddns.net:8001/1:0:1:3EE:1:1:E08318F:0:0:0:
+http://wedigitaltv.ddns.net:8001/1:0:1:FFA:D:1:E082E2F:0:0:0:
+http://wedigitaltv.ddns.net:8001/1:0:1:3EB:2:1:E0831B3:0:0:0:
+http://wedigitaltv.ddns.net:8001/1:0:1:76C2:2C0:600:E080000:0:0:0:
+http://84.208.255.28:8002/1:0:1:1:3DE:110:820000:0:0:0:
+http://84.208.255.28:8001/1:0:1:1:3DE:110:820000:0:0:0:
+http://84.208.255.28:8001/1:0:1:2:3DE:110:820000:0:0:0:
+http://84.208.255.28:8002/1:0:1:2:3DE:110:820000:0:0:0:
+http://84.208.255.28:8001/1:0:1:5:3DE:110:820000:0:0:0:
+http://84.208.255.28:8001/1:0:1:5:3DE:110:820000:0:0:0:
+http://84.208.255.28:8001/1:0:1:3:3DE:110:820000:0:0:0:
+http://84.208.255.28:8002/1:0:1:3:3DE:110:820000:0:0:0:
+http://84.208.255.28:8001/1:0:1:9:3DE:110:820000:0:0:0:
+http://84.208.255.28:8002/1:0:1:9:3DE:110:820000:0:0:0:
+http://84.208.255.28:8001/1:0:1:514:1FA4:9C:5A0000:0:0:0:
+http://93.103.57.37:8001/1:0:1:3644:C8:13E:820000:0:0:0:
+http://74.122.193.208:1935/DrundooDVR/_definst_/smil:776c511d-aee0-4e33-a44e-265e464c0a28.smil/playlist.m3u8 
+#EXTINF:-1, Digi Sport 2
+ 
+http://91.211.51.155:5555/udp/224.20.20.240:1234
+ 
+#EXTINF:-1, Digi Sport 3
+ 
+http://91.211.51.155:5555/udp/224.20.20.239:1234
+ 
+#EXTINF:-1, Dolce Sport HD
+ 
+http://91.211.51.155:5555/udp/224.20.20.226:1234
+ 
+#EXTINF:-1, Dolce Sport 4
+ 
+http://91.211.51.155:5555/udp/224.20.20.227:1234
+ 
+#EXTINF:-1, Dolce Sport
+ 
+http://91.211.51.155:5555/udp/224.20.20.229:1234
+ 
+#EXTINF:-1, Dolce Sport 3
+ 
+http://91.211.51.155:5555/udp/224.20.20.228:1234
+ 
+#EXTINF:-1, Dolce Sport 2
+ 
+http://91.211.51.155:5555/udp/224.20.20.242:1234
+ 
+#EXTINF:-1, Sport.ro HD
+ 
+http://91.211.51.155:5555/udp/224.20.20.248:1234
+ 
+#EXTINF:-1, NTV Fudbal 1
+ 
+http://91.211.51.155:5555/udp/224.21.21.243:1234
+ 
+#EXTINF:-1, MTV Fudbal 2
+ 
+http://91.211.51.155:5555/udp/224.21.21.244:1234
+ 
+#EXTINF:-1, NTV Fudbal 3
+ 
+http://91.211.51.155:5555/udp/224.21.21.155:1234
+
+rtmp://195.2.247.7/live/livestream
+rtmp://81.12.152.250/live/esttv
+http://91.232.210.155:7011/
+http://127.0.0.1:8902
+http://127.0.0.1:8903/
+http://81.196.63.226:1935/live/rkst3_5.stream/chunklist_w1895631656.m3u8
+
+http://rm-edge-7.cdn2.streamago.tv/streamagoedge/1049/221/playlist.m3u8
+http://ivm.aplay.ro/live/antena1/playlist.m3u8
+rtmp://195.22.232.3/rtplive/mp4:program25.stream
+rtsp://31.220.0.138:1935/live/_definst_/b1r
+DOLCE SPORT 1
+
+http://live.nnc.ro:1936/live3/dolcesport/chunklist_w64457438.m3u8
+
+DOLCE SPORT 2
+
+http://live.nnc.ro:1936/live3/dolcesport2/chunklist_w2127549057.m3u8
+
+DOLCE SPORT 3
+
+http://live.nnc.ro:1936/live3/dolcesport3/chunklist_w2006779431.m3u8
+
+DOLCE SPORT 4
+
+http://live.nnc.ro:1936/live3/dolcesport4/chunklist_w759829322.m3u8
+
+DOLCE SPORT HD
+
+http://live.nnc.ro:1936/live3/dolcesporthd/chunklist_w1326767812.m3u8
+rtmp://webdigitalbesttv.no-ip.org:1936/live3/_definst_/mp4:tvr1_low
+rtmp://webdigitalbesttv.no-ip.org:1936/live3/b1
+rtmp://webdigitalbesttv.no-ip.org:1936/live3/tvrhd_low
+rtmp://webdigitalbesttv.no-ip.org:1936/live3/_definst_/mp4:tvrhd
+http://109.167.132.122:4022/udp/233.99.64.93:1234 
+http://109.167.132.122:4022/udp/233.99.64.92:1234 
+rtmp://fms38.mediadirect.ro:1935/live3/_definst_?id=87350725&publisher=2&siteId=0&user_id=6052&token=770405ad5f240410304aad902d979f494005a922c0ae26ec/mp4:animalplanet_low
+rtmp://fms113.mediadirect.ro:80/live3/_definst_?id=87350725&publisher=0&siteId=0&token=f160632281d6b11c65dba799d74a31bb36b948d75ab02eaf/etno_low
+http://nimlive1.giniko.com/dmaxtv/dmaxtv.stream/p.m3u8
+http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8?hdnea=st=1391525654~exp=1391525954~hmac=66a76ab45c152e235967751a5800a45bc7418918ea2b336f47108464c98db43f 
+rtmp://7865338463.strangled.net:1936/live3/discoveryworld/token=4e9b51ef6ad5a6eb7de1c2902e2d4f4a4f713d622d67d30e 
+http://5.133.183.5:9968
+rtmp://stream.pvtv.ro/live/rtmp
+rtmp://sports-tv.bounceme.net:1936/live3/mp4:tvrhd_low
+rtmp://wwwebdigitaltv.redirectme.net:1936/live3/_definst_/explorer
+rtmp://wwwebdigitaltv.no-ip.org:1936/live3/_definst_/flv:explorer
+rtmp://wwwebdigitaltv.servebeer.com:1936/live3/_definst_/mp4:explorer http://178.21.120.124:1936/live3/flv:dolcesporthd/chunklist.m3u8 
+http://178.21.120.124:1936/live3/flv:dolcesporthd/chunklist_w1146259025.m3u8
+rtmp://stream1.aplay.ro/live/_definst_/mp4:ZUChannel_1000
+rtmp://stream1.aplay.ro/live/_definst_/mp4:AntenaNews_1000
+http://cds.r4t3u7e9.hwcdn.net/livespi/_definst_/mp4:docubox_360p/playlist.m3u8
+http://portaltv.best.fsv.me:1936/live3/mp4:DocuBox/mp4:DocuBox/portaltv.m3u8
+http://portaltv.best.fsv.me:1936/live3/mp4:DocuBox_low/mp4:DocuBox_low/portaltv.m3u8
+http://portaltv.best.fsv.me:1936/live3/mp4:DocuBox/mp4:DocuBox/chunklist_w1772840798_ao.m3u8
+rtmp://live.sport.ro/cancan/mp4:live1.mp4
+rtmp://178.21.120.198:1936/live3/flv:tvr1
+http://178.21.120.198:1936/live3/mp4/tvr1/portaltv.m3u8
+http://178.21.120.198:1936/live3/flv:dolcesporthd/playlist.m3u8
+rtmp://178.21.120.198:1936/live3/flv:dolcesporthd
+rtmp://portaltv.best.fsv.me:1936/live3/mp4:disney
+http://portaltv.best.fsv.me:1936/live3/mp4:tvr1/portaltv.m3u8
+http://portaltv.best.fsv.me:1936/live3/mp4:tvr1/mp4:tvr1/portaltv.m3u8
+http://portaltv.best.fsv.me:1936/live3/mp4:nature_low/mp4:nature_low/portaltv.m3u8
+http://portaltv.best.fsv.me:1936/live3/mp4:kiss_low/mp4:kiss_low/portaltv.m3u8
+http://portaltv.best.fsv.me:1936/live3/mp4:kiss_low/mp4:kiss_low/portaltv.m3u8?file=mp4:kiss_low?token=ea3b1f51e02758d62f9c34b8c6970ad4
+http://portaltvro.md.lyk.ro:5556/udp/224.21.21.38:1234
+http://publikatv.web.tvbox.md/udp/224.21.21.225:1234
+http://1026.cdn.hostway.ro/origin01.hostway.ro/protected/antena1-live.isml/antena1-live-audio%3D96000-video%3D400000.m3u8
+http://1025.cdn.hostway.ro/origin01.hostway.ro/protected/gsptv.isml/gsptv-audio%3D96000-video%3D400000.m3u8
+rtmp://81.12.152.250/live/esttv.flv live=1
+http://busuioc.web.tvbox.md/yayin.canlitv.comadnet22019/udp/224.21.21.7:999582
+rtmp://46.55.25.186/live/direct live=1
+http://mdk.lyk.ro:5556/udp/224.21.21.44:1234
+http://109.233.194.252:5556/udp/224.21.21.5:1234
+rtmp://92.86.30.242:12800/live/livestream
+http://85.204.233.120:1935/news/1.stream/playlist.m3u8
+http://85.204.233.120:1935/news/1.stream/***ylist.m3u8
+http://protv.web.tvbox.md
+rtmp://93.116.255.2:1935/live/512_direct 
+http://109.233.194.252:5556/udp/224.21.21.5:1234
+http://109.233.194.252:5556/udp/224.21.21.79:1234
+rtmp://195.22.232.3/rtplive/program22.stream
+rtmp://195.22.232.3/rtplive/program2.stream
+http://prime.web.tvbox.md
+http://109.233.194.252:5556/udp/224.21.21.29:1234
+http://jurnaltvsd.web.tvbox.md
+rtmp://195.22.232.3/rtplive/program3.stream
+http://ch0.jurnaltv.md/channel0.flv
+http://jurnaltvhd.web.tvbox.md
+http://109.233.194.252:5556/udp/224.21.21.2:1234
+http://moldova1.web.tvbox.md
+http://mediafilmcenter.ro:10
+mms://mediafilmcenter.ro:10/
+mmsh://mediafilmcenter.ro:10 
+http://87.248.160.8/edge/smil:tvr/chunklist_w428148373_b2100000.m3u8
+http://87.248.160.8/edge/smil:utv/chunklist_w1733622415_b2100000.m3u8http://87.248.160.8/edge/smil:realitate/chunklist_w1451421807_b600000.m3u8
+http://87.248.160.8/edge/smil:jurnaltv/chunklist_w968643430_b2100000.m3u8http://87.248.160.8/edge/smil:protv/chunklist_w1097698910_b2100000.m3u8#EXTINF:0,DIGI 24
+ 
+http://82.76.249.77:80/digi24edge/digi24hdhqhls/index.m3u8
+ 
+#EXTINF:0, Jurnal TV
+ 
+http://87.248.160.8/edge/smil:jurnaltv/playlist.m3u8
+ 
+#EXTINF:0, MBC HD
+ 
+http://87.248.160.8/edge/smil:mbc/playlist.m3u8
+ 
+#EXTINF:0, Moldova 1
+ 
+http://87.248.160.8/edge/smil:m1/playlist.m3u8
+ 
+#EXTINF:0, Moldova Sport HD
+ 
+http://87.248.160.8/edge/smil:boet/playlist.m3u8
+ 
+#EXTINF:0, Prime
+ 
+http://87.248.160.8/edge/smil:prime/playlist.m3u8
+ 
+#EXTINF:0, PRO TV Chisinau
+ 
+http://87.248.160.8/edge/smil:protv/playlist.m3u8
+ 
+#EXTINF:0, Publika TV
+ 
+http://87.248.160.8/edge/smil:publica/playlist.m3u8
+ 
+#EXTINF:0, Realitatea TV
+ 
+http://87.248.160.8/edge/smil:realitate/playlist.m3u8
+ 
+#EXTINF:0, TVC 21
+ 
+http://87.248.160.8/edge/smil:tvc21/playlist.m3u8
+ 
+#EXTINF:0, TVR
+ 
+http://87.248.160.8/edge/smil:tvr/playlist.m3u8
+ 
+#EXTINF:1,Pro TV
+ 
+http://87.248.160.8/edge/smil:protv/playlist.m3u8
+ 
+#EXTINF:1,M1
+ 
+http://87.248.160.8/edge/smil:m1/playlist.m3u8
+ 
+#EXTINF:1,Tvr
+ 
+http://87.248.160.8/edge/smil:tvr/playlist.m3u8
+ 
+#EXTINF:1,Bravo
+ 
+http://87.248.160.8/edge/smil:tnt/playlist.m3u8
+ 
+#EXTINF:1,Rtr
+ 
+http://87.248.160.8/edge/smil:rtrp/playlist.m3u8
+ 
+#EXTINF:1,N4
+ 
+http://87.248.160.8/edge/smil:n4/playlist.m3u8
+ 
+#EXTINF:1,Tvc21
+ 
+http://87.248.160.8/edge/smil:tvc21/playlist.m3u8
+ 
+#EXTINF:1,CTC
+ 
+http://87.248.160.8/edge/smil:sts/playlist.m3u8
+ 
+#EXTINF:1,Fight
+ 
+http://87.248.160.8/edge/smil:boet/playlist.m3u8
+ 
+#EXTINF:1,STV
+ 
+http://87.248.160.8/edge/smil:set/playlist.m3u8
+ 
+#EXTINF:1,Alt TV
+ 
+http://87.248.160.8/edge/smil:alttv/playlist.m3u8
+ 
+#EXTINF:1,Accent
+ 
+http://87.248.160.8/edge/smil:accent/playlist.m3u8
+ 
+#EXTINF:1,Sor TV
+ 
+http://87.248.160.8/edge/smil:sortv/playlist.m3u8
+ 
+#EXTINF:1,Ren TV
+ 
+http://87.248.160.8/edge/smil:rentv/playlist.m3u8
+ 
+#EXTINF:1,Noroc TV
+ 
+http://87.248.160.8/edge/smil:noroc/playlist.m3u8
+ 
+#EXTINF:1,Busuioc TV
+ 
+http://87.248.160.8/edge/smil:busuioc/playlist.m3u8
+ 
+#EXTINF:1,Gold TV HD
+ 
+http://87.248.160.8/edge/smil:goldtv/playlist.m3u8
+ 
+#EXTINF:1,2Plus TV
+ 
+http://87.248.160.8/edge/smil:2plus/playlist.m3u8
+ 
+#EXTINF:1,Canal3
+ 
+http://87.248.160.8/edge/smil:canal3/playlist.m3u8
+ 
+#EXTINF:1,Animaux
+ 
+http://87.248.160.8/edge/smil:animaux/playlist.m3u8
+ 
+
+http://82.76.249.77:80/utvedge/utvlive/index.m3u8
+http://1025.cdn.hostway.ro/origin01.hostway.ro/protected/antena1-live.isml/antena1-live.m3u8
+http://1026.cdn.hostway.ro/origin01.hostway.ro/protected/antena1-live.isml/Manifest?st=smXN19vQsEpauaW26LMnTA&e=1387993701
+http://1026.cdn.hostway.ro/origin01.hostway.ro/protected/antena1-live.isml/antena1-live-audio%3D96000-video%3D1000000.m3u8
+http://1026.cdn.hostway.ro/origin01.hostway.ro/protected/antena1-live.isml/antena1-live-audio%3D96000-video%3D400000.m3u8
+http://89.149.7.178:8800/flv-audio-video/
+rtmp://195.49.249.199/rtn/live
+http://pc-yourfreetv.com/pfWjZdRv2HkAS2UzVYdjUsgsw/stream/playlist.m3u8?c=rsila1&auth=327b3f91f9f4d0df2d1a34f5868e3d03&t=1390948161&hmac=5cfb713ef2837a4fb5f3147160d3b66a59d9db3ffa0803405c621f29&tsid=20b58a76e2e5732dcf873e7df5fdfdc910ef618917bad9fa6aac2434fed30996&cid=d5f87c7f63e5b3673c282f6897666ec6fdd2938926dfc00b28f2a69f2fd35f2b2f5244d5f649666e27180edc30b251f6&watchid=1e156d8aa79a9844e80943e75fddaec44d534b72cfec53704a0c5992e048641f243ed6ff905064127b6dcf6699a8e880149a9a4932e362d915f770d5a4fc6cb4
+http://pc-yourfreetv.com/pfWjZdRv2HkAS2UzVYdjUsgsw/stream/playlist.m3u8?c=rsila2&auth=327b3f91f9f4d0df2d1a34f5868e3d03&t=1390948355&hmac=5cfb713ef2837a4fb5f3147160d3b66a59d9db3ffa0803405c621f29&tsid=06aac1578d539bc6aea635d5363488d42cf5689f2a51c561628679189411cf3b&cid=4b3735dde20ed61e90e906aed5cbf0fded95c62db8e5eb04f7a9c17728a665640821f9b2b4345d1bf6d16385373e333a&watchid=f5bb8979cbf213a62b3a9b7b6fabe429ed996aaa85eb841d4c654a8d5a84671ca80b891cd04d6e143fc430309bdeef9b21ddc7f8de5a9977d217fe95f591cb35
+
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://localhost:8902/tv.asf SOPCAST>VLC
+http://178.21.120.198:1935/live3/_definst_/mp4:privatetv/playlist.m3u8
+http://178.21.120.198:1935/live3/_definst_/mp4:hustlerblue/playlist.m3u8
+http://178.21.120.198:1935/live3/_definst_/mp4:hustlertv/playlist.m3u8
+http://178.21.120.198:1935/live3/_definst_/mp4:hustlerhd/playlist.m3u8
+http://31.223.238.10:8001/1:0:1:409:2:1:E0831B3:0:0:0:
