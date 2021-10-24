@@ -109,16 +109,6 @@ https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=Nq
 https://netstreaming.eu:8080/hls/m9tv.m3u8
 #EXTINF:-1 tvg-id="MEDIAREGIONAL.ro" tvg-name="MEDIA REGIONAL" tvg-country="RO" tvg-language="" tvg-logo="" group-title="",MEDIA REGIONAL
 http://83.103.150.198:8080
-#EXTINF:-1 tvg-id="MTVHitsEurope.us" tvg-name="MTV Hits Europe" tvg-country="EUR" tvg-language="" tvg-logo="https://i.imgur.com/hwaLKuJ.png" group-title="Music",MTV Hits Europe (576p)
-http://188.40.68.167/russia/mtv_hits/playlist.m3u8
-#EXTINF:-1 tvg-id="MusicChannelRomania.ro" tvg-name="Music Channel Romania" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/PRgvj4c.png" group-title="Music",Music Channel Romania (576p)
-https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="MoozDance.ro" tvg-name="MoozDance.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="Music",MoozDance 
-https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
-#EXTINF:-1 tvg-id="MoozRo.ro" tvg-name="MoozRo.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="Music",MoozRo 
-https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
-#EXTINF:-1 tvg-id="MoozHits.ro" tvg-name="MoozHits.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="Music",MoozHits 
-https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
 #EXTINF:-1 tvg-id="NasulTV.ro" tvg-name="Naşul TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="",Naşul TV (720p) [Not 24/7]
 https://5ab29cc78f681.streamlock.net/NasulTV/livestream/playlist.m3u8
 #EXTINF:-1,N4 md
@@ -153,6 +143,8 @@ http://s2.streamnet.ro:8035/stream.flv
 http://play.streamkit.tv/content/channel/sperantatv/live/sperantatv.player.m3u8
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-name="Speranta TV" tvg-country="RO" tvg-language="" tvg-logo="" group-title="",Speranta TV (720p)
 http://us200.streamkit.tv/edge/sperantatv_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperTV.ro" tvg-country="RO" tvg-language="" tvg-logo="" group-title="",SuperTV
+http://live.supertv.ro:1935/live/smil:hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Telestar1.ro" tvg-name="Telestar1" tvg-country="RO" tvg-language="" tvg-logo="" group-title="",Telestar1 (480p)
 http://193.34.109.10:8090
 #EXTINF:-1 tvg-id="Telestar1.ro" tvg-name="Telestar1" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/qSd8DTI.png" group-title="",Telestar1 (480p)
