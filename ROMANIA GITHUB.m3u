@@ -71,6 +71,8 @@ http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
 https://tv.streambox.ro/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="Digi24.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="",Digi 24 (720p) [Offline]
 https://iptv-all.lanesh4d0w.codes/romania/digi24
+#EXTINF:-1 tvg-id="Digi24.ar" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="",Digi 24 ar
+https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
 #EXTINF:-1 tvg-id="ElitaTV.ro" tvg-name="Elita TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Lmbmx3y.png" group-title="",Elita TV (576p)
 http://46.55.111.242:8080/Rezina.m3u8
 #EXTINF:-1 tvg-id="EstTVNeamt.ro" tvg-name="Est TV (Neamt)" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.ibb.co/kQJ10r8/est-tv-ro.png" group-title="Local",Est TV (Neamt) (576p)
@@ -163,7 +165,7 @@ https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
 https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVR1.ro" tvg-name="TVR 1" tvg-country="RO" tvg-language="" tvg-logo="https://s.digiromania.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIwJTJGMDEl/MkYwNiUyRjExNDg0ODFfMTE0ODQ4MV90/dnItMV9oZC5wbmcmaGFzaD01ZmEzM2Fk/OTEzNGMxMTE1ZTc4YjZiMjRmYTU4Nzc0YQ==.png" group-title="",TVR 1 (720p) [Geo-blocked]
 https://mn-nl.mncdn.com/tvr1_hd_live/tvr1_hd_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVR intern.ro" tvg-name="TVR intern" tvg-country="RO" tvg-language="" tvg-logo="https://s.digiromania.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIwJTJGMDEl/MkYwNiUyRjExNDg0ODFfMTE0ODQ4MV90/dnItMV9oZC5wbmcmaGFzaD01ZmEzM2Fk/OTEzNGMxMTE1ZTc4YjZiMjRmYTU4Nzc0YQ==.png" group-title="",TVR Internațional 
+#EXTINF:-1 tvg-id="TVR1.ro" tvg-name="TVR 1" tvg-country="RO" tvg-language="" tvg-logo="https://s.digiromania.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIwJTJGMDEl/MkYwNiUyRjExNDg0ODFfMTE0ODQ4MV90/dnItMV9oZC5wbmcmaGFzaD01ZmEzM2Fk/OTEzNGMxMTE1ZTc4YjZiMjRmYTU4Nzc0YQ==.png" group-title="",TVR 1 (480p) [Geo-blocked]
 https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8
 #EXTINF:-1 tvg-id="TVR2.ro" tvg-name="TVR 2" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/TxM5dwY.png" group-title="General",TVR 2 (720p) [Geo-blocked]
 https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8
