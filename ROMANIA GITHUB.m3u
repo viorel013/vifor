@@ -69,7 +69,7 @@ http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/chunklist_b1128000.m3u8
 http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="De profesieTURIST" tvg-name="De profesie TURIST" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="Travel",De profesie TURIST
 https://tv.streambox.ro/hls/stream/index.m3u8
-#EXTINF:-1 tvg-id="Digi24.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="",Digi 24 (720p) [Offline]
+#EXTINF:-1 tvg-id="Digi24.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="",Digi 24 
 https://iptv-all.lanesh4d0w.codes/romania/digi24
 #EXTINF:-1 tvg-id="Digi24.ar" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="",Digi 24 ar
 https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
@@ -79,6 +79,8 @@ http://46.55.111.242:8080/Rezina.m3u8
 http://89.38.8.130:39435
 #EXTINF:-1 tvg-id="GTV.ro" tvg-name="GTV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.ibb.co/bJVG9HX/GTV.jpg" group-title="Local",GTV
 rtmp://gtv1.arya.ro:1935/live/gtv1.flv
+#EXTINF:-1 tvg-id="HappyChannel.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Happy_Channel_%282020-present%29.png" group-title="Entertainment",Happy Channel 
+https://iptv-all.lanesh4d0w.codes/romania/happy-channel
 #EXTINF:-1 tvg-id="HappyChannel.ro" tvg-name="Happy Channel" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Happy_Channel_%282020-present%29.png" group-title="Entertainment",Happy Channel (720p)
 https://ivm.antenaplay.ro/live/happy/playlist.m3u8
 #EXTINF:-1,Inedit tv
@@ -111,6 +113,16 @@ https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=Nq
 https://netstreaming.eu:8080/hls/m9tv.m3u8
 #EXTINF:-1 tvg-id="MEDIAREGIONAL.ro" tvg-name="MEDIA REGIONAL" tvg-country="RO" tvg-language="" tvg-logo="" group-title="",MEDIA REGIONAL
 http://83.103.150.198:8080
+#EXTINF:-1 tvg-id="MTVHitsEurope.us" tvg-name="MTV Hits Europe" tvg-country="EUR" tvg-language="" tvg-logo="https://i.imgur.com/hwaLKuJ.png" group-title="Music",MTV Hits Europe (576p)
+http://188.40.68.167/russia/mtv_hits/playlist.m3u8
+#EXTINF:-1 tvg-id="MusicChannelRomania.ro" tvg-name="Music Channel Romania" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/PRgvj4c.png" group-title="Music",Music Channel Romania (576p)
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="MoozDance.ro" tvg-name="MoozDance.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="Music",MoozDance 
+https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
+#EXTINF:-1 tvg-id="MoozRo.ro" tvg-name="MoozRo.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="Music",MoozRo 
+https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
+#EXTINF:-1 tvg-id="MoozHits.ro" tvg-name="MoozHits.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="Music",MoozHits 
+https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
 #EXTINF:-1 tvg-id="NasulTV.ro" tvg-name="Naşul TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="",Naşul TV (720p) [Not 24/7]
 https://5ab29cc78f681.streamlock.net/NasulTV/livestream/playlist.m3u8
 #EXTINF:-1,N4 md
@@ -124,7 +136,7 @@ https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenhash=hOdIz
 #EXTINF:-1 tvg-id="PrimaTV.ro" tvg-name="Prima TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/oLuxC2P.png" group-title="General",Prima TV s1
 https://netstreaming.eu:8080/hls/unutv.m3u8
 #EXTINF:-1 tvg-id="PrimaTV.ro" tvg-name="Prima TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/oLuxC2P.png" group-title="General",Prima TV divert
-https://video-weaver.waw01.hls.ttvnw.net/v1/playlist/CpMFyqUngGizI-Bw7EYQXtbhgC7zYNQPCGvsimJ6b26_tRAjGzXotd5Ags6uvyCA81uXM5IhVln9gl4DO7ix6pZ10kOilydm1RCultbV2AId2HfOkLJI2VpIe93q63EScl1Mz9IFmyq4UojP7fSS3bICCVpWcWE7Vb_AP71k-KEIvfen1cVwmee35CTYkgXKHwmTzMJtAZhw2e4-x3EeI4Nsf4z3z5oJZtol7Pp1ZyFZrTTErJ1qEiv9BfRSSry0imqVzVSSzF9W4pWQ0peBtmrgVCovqpu0WCSGgDpWqrQ_O2Z8XFa5M9jG2rlsJk9XpUbgSUdR0Z6iqSB9yynjt5nzm6KzW7pxZXbxtelhbLZSEJR0OKMYrvDOnKDwif-1rpDkFjKz1Fx6mWcKaQLpbwtmU0GEAdCO_KBswwOjnO7Cv_EkHPNTcyw4OdpJBYDJGLvvxEvu2vXC4B7Hm6rTWzyk4BJkszA5HYxxUXJMovoImWZE_nuCtWuwDHh_R2-Hl5Xy3btcalQn5NSrOs1QduHH4Cl52w1UjpU3tFuYFBqqs_UqJYrvD9ewa3WJykcJsGoGeBolsLLAo1mBq3tJ_1gciXR61tHiFl8mW8dRpc5w65JAPCu-opdYAf20ZSZkVZDXcjbAs6chEcqMo55nOnY7nePuZVFu6sqY2biSgXHdF7xDaN64MjQgcSdJefafV5peNF9WFzqT9gQJNxqYsX95Y8ei8HLJuAgRte5AFAzelx7X8thBJSCPEq1N_AGFLgnP8YvLlWx6zppS7M4tuGGY5GLTk_OWGDr6-xHerleQ3KJIN0hvC8LVbjZt-KrK8UxhdxfSTV8c07cDfngOiG_jRBGrSu5tlhKNi5xTGchphM6m_6waDGvmdc1dzDIPSdwXuyABKglldS13ZXN0LTIwlgI.m3u8
+https://video-weaver.mad01.hls.ttvnw.net/v1/playlist/CpYF84p5mUE5bDOW6vT_4VS7Z5oLjdSeVp-uxCHT2wr5hftPzj6HVoNPzj34zNnSkb_-pn0mtqpRUmmU9SNO1mBbilPi4LSxn97L-EyKflqO-it0xQquQ3KHCL-hfEh4DMESJDxkWHw6BSdpL5y4xFqs-ZVIBtkokBWkolqtExELjxCXl4W13Z6YXrVnodS4Vm3Wa_cs-QP79YdZbHfPv1qz6ch8mODMJ4pyx7V9k3qeSSADfgyTu50p9d68mGtWp0IHlq151fKRZvqRp6wHos1iLUs2dlcgg4D9AuBYgKjFOFEILS6DYZZ-8AzmAqmto57PX36dRQgotThtWiR04sTLKUBgQlh6FWMo_-cNOwzz38lsVr0wb_-Jjg5AweRNeinBOiYygL8kw_pmap1l0LAUtQXQbLZsbJnKTKRbIbR19a4scoBfMRqnORENhNg8thoNBx-jc4FwhbVYgnncvEcU5YUCl2P3QS3zHJAxgMEehxk-eGn4h-sfFUUVyOhhyEGn2rDJEMhMVt3mNjV7Qoar_Lfv6bZBjVhJttXx2C35nH0n9uuwH51f_JJGBPd-VmOjYSfbc6Ul17_R2B0Z3nTHiNDejdpX-R-EGAZUDxXqNiQ7SHGTS6uf68L43TWIQDftDEDYcNGRA4IDFOw_fz-39MdIZumU2DvQ_FBriaU3NCbQfPrRRGyC7ua-L3_LkHwFdoSqav6hZRsmwHDi1WOZFEYk9GzMza0K3eVQ6dixZG97JYm7XEKkHniR2V4YUcVMUAINsWTeH1oRlVf_wxQCN_Slm5eFF_zacdHiLrFZp7RfGhTwvXHtt4bzRPaHrUhZ95kQNBGQhj-f3eLir-OxyqmKSqIJW2y6iegoDlnC_BqUbE9koCwaDAKcfEfSzx8l1PWeAiABKglldS13ZXN0LTIwlwI.m3u8
 #EXTINF:-1 tvg-id="Pro TV RO" tvg-name="Pro TV RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/XBVUD3J.png" group-title="General",Pro TV
 https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/DsLbSwxySNeU1rDhY4P_kg==,1634768395/channels/cme-ro-protv/playlist/rum/live_mq.m3u8?offsetSeconds=0&url=
 #EXTINF:-1 group-title="ROMANIA" tvg-logo="https://i.imgur.com/wyhkBLg.png" tvg-id="Pro TV" tvg-name="Pro TV" ,Pro TV
@@ -139,8 +151,6 @@ https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-procinema/playlist/rum/liv
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-progold/playlist/rum/live_fullhd.m3u8
 #EXTINF:-1 group-title="ROMANIA" tvg-logo="https://i.imgur.com/z6vQEbZ.png" tvg-id="Pro X" tvg-name="Pro X" ,Pro X
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-prox/playlist/rum/live_fullhd.m3u8
-#EXTINF:-1 tvg-id="Pro TV RO" tvg-name="Pro TV RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/XBVUD3J.png" group-title="General",Pro TV
-https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/DsLbSwxySNeU1rDhY4P_kg==,1634768395/channels/cme-ro-protv/playlist/rum/live_mq.m3u8?offsetSeconds=0&url=
 #EXTINF:-1 tvg-id="Profitro.ro" tvg-name="Profit.ro" tvg-country="RO" tvg-language="" tvg-logo="" group-title="",Profit.ro (404p)
 https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="RapsodiaTV.ro" tvg-name="Rapsodia TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.ibb.co/TH1T2Y2/Rapsodia-TV.png" group-title="",Rapsodia TV (576p)
@@ -161,8 +171,6 @@ http://s2.streamnet.ro:8035/stream.flv
 http://play.streamkit.tv/content/channel/sperantatv/live/sperantatv.player.m3u8
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-name="Speranta TV" tvg-country="RO" tvg-language="" tvg-logo="" group-title="",Speranta TV (720p)
 http://us200.streamkit.tv/edge/sperantatv_1200/playlist.m3u8
-#EXTINF:-1 tvg-id="SuperTV.ro" tvg-country="RO" tvg-language="" tvg-logo="" group-title="",SuperTV
-http://live.supertv.ro:1935/live/smil:hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Telestar1.ro" tvg-name="Telestar1" tvg-country="RO" tvg-language="" tvg-logo="" group-title="",Telestar1 (480p)
 http://193.34.109.10:8090
 #EXTINF:-1 tvg-id="Telestar1.ro" tvg-name="Telestar1" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/qSd8DTI.png" group-title="",Telestar1 (480p)
