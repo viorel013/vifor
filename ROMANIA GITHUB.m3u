@@ -12,7 +12,7 @@ https://iptv-all.lanesh4d0w.repl.co/romania/a1
 #EXTINF:-1 tvg-id="Antena1.ro" tvg-name="Antena 1 site" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/26D3mCb.png" group-title="General",Antena 1 roforum
 http://zzytv.sytes.net:8000/roforum/MJ0uIXxSHjwh5/151
 #EXTINF:-1 tvg-id="Antena3.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Antena_3_%282016-present%29.png" group-title="News",Antena 3 (720p)
-https://iptv-all.lanesh4d0w.codes/romania/a3
+https://iptv-all.lanesh4d0w.repl.co/romania/a3
 #EXTINF:-1 tvg-id="AntenaComedy.ro" tvg-country="RO" tvg-language="" tvg-logo="" group-title="Comedy",Antena Comedy (432p)
 http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AntenaInternational.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Antena_Interna%C8%9Bional_%282016%29.png" group-title="General",Antena International (576p)
@@ -20,7 +20,7 @@ https://iptv-all.lanesh4d0w.repl.co/romania/ai
 #EXTINF:-1 tvg-id="AntenaMonden.ro" tvg-country="RO" tvg-language="" tvg-logo="" group-title="",Antena Monden (720p)
 http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AntenaStars.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/UnkDhbr.png" group-title="Lifestyle",Antena Stars (720p)
-https://iptv-all.lanesh4d0w.codes/romania/astars
+https://iptv-all.lanesh4d0w.repl.co/romania/astars
 #EXTINF:-1 tvg-id="AntenaSport.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/UnkDhbr.png" group-title="Sports",AntenaSport
 https://stream1.antenaplay.ro/dfs/farasecrete5/playlist.m3u8
 #EXTINF:-1 tvg-id="Antena3.ro" tvg-name="Antena 3" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Antena_3_%282016-present%29.png" group-title="News",Antena 3 (720p)
@@ -70,7 +70,7 @@ http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="De profesieTURIST" tvg-name="De profesie TURIST" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="Travel",De profesie TURIST
 https://tv.streambox.ro/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="Digi24.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="",Digi 24 
-https://iptv-all.lanesh4d0w.codes/romania/digi24
+https://iptv-all.lanesh4d0w.repl.co/romania/digi24
 #EXTINF:-1 tvg-id="Digi24.ar" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="",Digi 24 ar
 https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
 #EXTINF:-1 tvg-id="ElitaTV.ro" tvg-name="Elita TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Lmbmx3y.png" group-title="",Elita TV (576p)
@@ -80,9 +80,9 @@ http://89.38.8.130:39435
 #EXTINF:-1 tvg-id="GTV.ro" tvg-name="GTV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.ibb.co/bJVG9HX/GTV.jpg" group-title="Local",GTV
 rtmp://gtv1.arya.ro:1935/live/gtv1.flv
 #EXTINF:-1 tvg-id="HappyChannel.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Happy_Channel_%282020-present%29.png" group-title="Entertainment",Happy Channel 
-https://iptv-all.lanesh4d0w.codes/romania/happy-channel
+https://iptv-all.lanesh4d0w.repl.co/romania/happy-channel
 #EXTINF:-1 tvg-id="HappyChannel.ro" tvg-name="Happy Channel" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Happy_Channel_%282020-present%29.png" group-title="Entertainment",Happy Channel (720p)
-https://iptv-all.lanesh4d0w.codes/romania/happy-channel
+https://iptv-all.lanesh4d0w.repl.co/romania/happy-channel
 #EXTINF:-1,Inedit tv
 http://cachero.privesc.eu/storage/20211021-declaratie-ciolacu.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="Info HD" tvg-name="Info HD" tvg-country="RO" tvg-language="Romanian" group-title="Local",Info HD
@@ -227,11 +227,11 @@ http://89.38.8.130:39437
 https://ivm.antenaplay.ro/live/zutv/playlist.m3u8
 #EXTINF:-1 tvg-id="UTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.cinemagia.ro/img/tv_station/utv.jpg" user-agent="iPhone" group-title="Music",UTV s1
 #EXTVLCOPT:http-user-agent=iPhone
-https://iptv-all.lanesh4d0w.codes/romania/utv 
+https://iptv-all.lanesh4d0w.repl.co/romania/utv 
 #EXTINF:-1 tvg-id="ZURadioTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="Music",ZU Radio TV s1
-https://iptv-all.lanesh4d0w.codes/romania/zuradiotv 
+https://iptv-all.lanesh4d0w.repl.co/romania/zuradiotv 
 #EXTINF:-1 tvg-id="ZUTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="Music",ZU TV s1
-https://iptv-all.lanesh4d0w.codes/romania/zutv
+https://iptv-all.lanesh4d0w.repl.co/romania/zutv
 #EXTINF:-1, CANALE MOLDOVA
 #EXTINF:-1 tvg-id="AcasaTV.md" tvg-country="MD" tvg-language="Romanian" tvg-logo="https://i.imgur.com/k1bTMPT.png" group-title="",Acasa TV (576p)
 http://hls.protv.md/acasatv/acasatv.m3u8
