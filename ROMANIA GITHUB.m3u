@@ -11,6 +11,34 @@ http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8
 https://iptv-all.lanesh4d0w.repl.co/romania/a1
 #EXTINF:-1 tvg-id="Antena1.ro" tvg-name="Antena 1 site" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/26D3mCb.png" group-title="General",Antena 1 roforum
 https://admobtv.000webhostapp.com/a1.php
+#EXTINF:-1 tvg-logo="" group-title="ROMANIAN SPORTS",TelekomSport1 HD
+http://supersonictv.live:25461/marcia/marcia/83964
+#EXTINF:-1 tvg-logo="" group-title="ROMANIAN SPORTS",TelekomSport2 HD
+http://supersonictv.live:25461/marcia/marcia/83965
+#EXTINF:-1 tvg-logo="" group-title="ROMANIAN SPORTS",TelekomSport3 HD
+http://supersonictv.live:25461/marcia/marcia/83966
+#EXTINF:-1 tvg-logo="" group-title="ROMANIAN SPORTS",TelekomSport4 HD
+http://supersonictv.live:25461/marcia/marcia/83967
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Romania",LookSport
+https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Romania" ,LookSport2
+https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Romania",LookSport3
+https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+#EXTINF:-1 tvg-logo="" group-title="ROMANIAN SPORTS",LookSport+
+https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+#EXTINF:0 group-title="Румыния | Romania" tvg-id="3734" tvg-logo="http://epg.it999.ru/img/3734.png" tvg-rec="3",Eurosport 1 FHD
+http://21929815.rossteleccom.net/iptv//HCA5Q2VGYBY7YE6992/index.m3u8
+#EXTINF:0 group-title="Румыния | Romania" tvg-id="3735" tvg-logo="http://epg.it999.ru/img/3735.png" tvg-rec="3",Eurosport 2 FHD
+http://21929815.rossteleccom.net/iptv/HCA5Q2VGYBY7YE/6993/index.m3u8
+#EXTINF:0 group-title="Румыния | Romania" tvg-id="2907" tvg-logo="http://epg.it999.ru/img/2907.png" tvg-rec="3",DIGI Sport 1 FHD
+http://21929815.rossteleccom.net/iptv/HCA5Q2VGYBY7YE/2523/index.m3u8
+#EXTINF:0 group-title="Румыния | Romania" tvg-id="2906" tvg-logo="http://epg.it999.ru/img/2906.png" tvg-rec="3",DIGI Sport 2 FHD
+http://21929815.rossteleccom.net/iptv/HCA5Q2VGYBY7YE/2522/index.m3u8
+#EXTINF:0 group-title="Румыния | Romania" tvg-id="2908" tvg-logo="http://epg.it999.ru/img/2908.png" tvg-rec="3",DIGI Sport 3 FHD
+http://21929815.rossteleccom.net/iptv/HCA5Q2VGYBY7YE/2524/index.m3u8
+#EXTINF:0 group-title="Румыния | Romania" tvg-id="2922" tvg-logo="http://epg.it999.ru/img/2922.png" tvg-rec="3",DIGI Sport 4 FHD
+http://21929815.rossteleccom.net/iptv/HCA5Q2VGYBY7YE/2538/index.m3u8
 #EXTINF:-1 tvg-id="Antena3.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Antena_3_%282016-present%29.png" group-title="News",Antena 3 (720p)
 https://iptv-all.lanesh4d0w.repl.co/romania/a3
 #EXTINF:-1 tvg-id="AntenaComedy.ro" tvg-country="RO" tvg-language="" tvg-logo="" group-title="Comedy",Antena Comedy (432p)
