@@ -10,7 +10,7 @@ http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Antena1.ro" tvg-name="Antena 1" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/26D3mCb.png" group-title="General",Antena 1
 https://iptv-all.lanesh4d0w.repl.co/romania/a1
 #EXTINF:-1 tvg-id="Antena1.ro" tvg-name="Antena 1 site" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/26D3mCb.png" group-title="General",Antena 1 roforum
-http://zzytv.sytes.net:8000/roforum/MJ0uIXxSHjwh5/151
+https://admobtv.000webhostapp.com/a1.php
 #EXTINF:-1 tvg-id="Antena3.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Antena_3_%282016-present%29.png" group-title="News",Antena 3 (720p)
 https://iptv-all.lanesh4d0w.repl.co/romania/a3
 #EXTINF:-1 tvg-id="AntenaComedy.ro" tvg-country="RO" tvg-language="" tvg-logo="" group-title="Comedy",Antena Comedy (432p)
