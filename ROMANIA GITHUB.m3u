@@ -239,7 +239,7 @@ https://iptv-all.lanesh4d0w.repl.co/romania/utv
 #EXTINF:-1 tvg-id="ZURadioTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="Music",ZU Radio TV s1
 https://iptv-all.lanesh4d0w.repl.co/romania/zuradiotv 
 #EXTINF:-1 tvg-id="ZUTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="Music",ZU TV s1
-https://iptv-all.lanesh4d0w.repl.co/romania/zutv
+https://admobtv.000webhostapp.com/zutv.php
 #EXTINF:-1, CANALE MOLDOVA
 #EXTINF:-1 tvg-id="AcasaTV.md" tvg-country="MD" tvg-language="Romanian" tvg-logo="https://i.imgur.com/k1bTMPT.png" group-title="",Acasa TV (576p)
 http://hls.protv.md/acasatv/acasatv.m3u8
