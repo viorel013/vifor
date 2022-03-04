@@ -98,7 +98,7 @@ http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="De profesieTURIST" tvg-name="De profesie TURIST" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="Travel",De profesie TURIST
 https://tv.streambox.ro/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="Digi24.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="",Digi 24 
-https://iptv-all.lanesh4d0w.repl.co/romania/digi24
+https://dai.google.com/linear/hls/pa/event/OQfdjUhHSDSlb1fJVzehsQ/stream/315d72fc-7ebc-46c0-83fd-cc4af3ff21e6:BRU/master.m3u8
 #EXTINF:-1 tvg-id="Digi24.ar" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="",Digi 24 ar
 https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
 #EXTINF:-1 tvg-id="ElitaTV.ro" tvg-name="Elita TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Lmbmx3y.png" group-title="",Elita TV (576p)
