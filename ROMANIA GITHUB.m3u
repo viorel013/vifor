@@ -176,8 +176,7 @@ http://nadxxy.com:8008/live/stancu_ilie/andrei2019/33760.m3u8
 #EXTINF:-1 tvg-id="Pro TV RO" tvg-name="Pro TV RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/XBVUD3J.png" group-title="General",Pro TV s1
 https://28za.short.gy/protv.m3u8
 #EXTINF:0,ProTV FULL HD
-#EXTVLCOPT:http-user-agent=https://aragorn1.mangusta.xyz/000/porkytv.html
-https://aragorn1.mangusta.xyz/000/porky-x.html
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
 #EXTINF:0,ProTV FULL HD 1
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-protv/playlist.m3u8
 #EXTINF:0,Pro Cinema
