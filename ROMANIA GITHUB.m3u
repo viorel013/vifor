@@ -9,7 +9,7 @@ http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
 http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Antena1.ro" tvg-name="Antena 1" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/26D3mCb.png" group-title="General",Antena 1
 https://iptv-all.lanesh4d0w.repl.co/romania/a1
-#EXTINF:-1 tvg-id="Antena1.ro" tvg-name="Antena 1 site" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/26D3mCb.png" group-title="General",Antena 1 roforum
+#EXTINF:-3 tvg-id="Antena1.ro" tvg-name="Antena 1 site" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/26D3mCb.png" group-title="General",Antena 1 roforum
 https://admobtv.000webhostapp.com/a1.php
 #EXTINF:-1 tvg-logo="" group-title="ROMANIAN SPORTS",TelekomSport1 HD
 http://supersonictv.live:25461/marcia/marcia/83964
@@ -175,7 +175,7 @@ http://nadxxy.com:8008/stancu_ilie/andrei2019/33760
 http://nadxxy.com:8008/live/stancu_ilie/andrei2019/33760.m3u8
 #EXTINF:-1 tvg-id="Pro TV RO" tvg-name="Pro TV RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/XBVUD3J.png" group-title="General",Pro TV s1
 https://28za.short.gy/protv.m3u8
-#EXTINF:0,ProTV FULL HD
+#EXTINF:-2,ProTV FULL HD
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
 #EXTINF:0,ProTV FULL HD 1
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-protv/playlist.m3u8
