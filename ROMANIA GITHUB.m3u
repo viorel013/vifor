@@ -169,8 +169,8 @@ https://netstreaming.eu:8080/hls/unutv.m3u8
 https://video-weaver.mad01.hls.ttvnw.net/v1/playlist/CpYF84p5mUE5bDOW6vT_4VS7Z5oLjdSeVp-uxCHT2wr5hftPzj6HVoNPzj34zNnSkb_-pn0mtqpRUmmU9SNO1mBbilPi4LSxn97L-EyKflqO-it0xQquQ3KHCL-hfEh4DMESJDxkWHw6BSdpL5y4xFqs-ZVIBtkokBWkolqtExELjxCXl4W13Z6YXrVnodS4Vm3Wa_cs-QP79YdZbHfPv1qz6ch8mODMJ4pyx7V9k3qeSSADfgyTu50p9d68mGtWp0IHlq151fKRZvqRp6wHos1iLUs2dlcgg4D9AuBYgKjFOFEILS6DYZZ-8AzmAqmto57PX36dRQgotThtWiR04sTLKUBgQlh6FWMo_-cNOwzz38lsVr0wb_-Jjg5AweRNeinBOiYygL8kw_pmap1l0LAUtQXQbLZsbJnKTKRbIbR19a4scoBfMRqnORENhNg8thoNBx-jc4FwhbVYgnncvEcU5YUCl2P3QS3zHJAxgMEehxk-eGn4h-sfFUUVyOhhyEGn2rDJEMhMVt3mNjV7Qoar_Lfv6bZBjVhJttXx2C35nH0n9uuwH51f_JJGBPd-VmOjYSfbc6Ul17_R2B0Z3nTHiNDejdpX-R-EGAZUDxXqNiQ7SHGTS6uf68L43TWIQDftDEDYcNGRA4IDFOw_fz-39MdIZumU2DvQ_FBriaU3NCbQfPrRRGyC7ua-L3_LkHwFdoSqav6hZRsmwHDi1WOZFEYk9GzMza0K3eVQ6dixZG97JYm7XEKkHniR2V4YUcVMUAINsWTeH1oRlVf_wxQCN_Slm5eFF_zacdHiLrFZp7RfGhTwvXHtt4bzRPaHrUhZ95kQNBGQhj-f3eLir-OxyqmKSqIJW2y6iegoDlnC_BqUbE9koCwaDAKcfEfSzx8l1PWeAiABKglldS13ZXN0LTIwlwI.m3u8
 #EXTINF:-1 tvg-id="PrimaTV.ro" tvg-name="Prima TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/oLuxC2P.png" group-title="General",LA SAT 1divertisment
 https://bit.ly/3w0JlkH
-#EXTINF:-1 tvg-id="Pro TV RO" tvg-name="Pro TV RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/XBVUD3J.png" group-title="General",Pro TV
-http://nadxxy.com:8008/stancu_ilie/andrei2019/33760
+#EXTINF:-1 tvg-id="Pro TV RO" tvg-name="Pro TV RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/XBVUD3J.png" group-title="General",Pro TV MART
+https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/vKcMKHB0bH7dIBTKJLMcHA==,1646413038/channels/cme-ro-protv/playlist/rum/live_fullhd.m3u8?offsetSeconds=0&url=1
 #EXTINF:-1 tvg-id="Pro TV RO" tvg-name="Pro TV RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/XBVUD3J.png" group-title="General",Pro TV s2
 http://nadxxy.com:8008/live/stancu_ilie/andrei2019/33760.m3u8
 #EXTINF:-1 tvg-id="Pro TV RO" tvg-name="Pro TV RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/XBVUD3J.png" group-title="General",Pro TV s1
