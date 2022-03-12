@@ -173,8 +173,8 @@ https://bit.ly/3w0JlkH
 https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/vKcMKHB0bH7dIBTKJLMcHA==,1646413038/channels/cme-ro-protv/playlist/rum/live_fullhd.m3u8?offsetSeconds=0&url=1
 #EXTINF:-1 tvg-id="Pro TV RO" tvg-name="Pro TV RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/XBVUD3J.png" group-title="General",Pro TV s2
 http://nadxxy.com:8008/live/stancu_ilie/andrei2019/33760.m3u8
-#EXTINF:-1 tvg-id="Pro TV RO" tvg-name="Pro TV RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/XBVUD3J.png" group-title="General",Pro TV s1
-https://28za.short.gy/protv.m3u8
+#EXTINF:-1 tvg-id="Pro TV RO" tvg-name="Pro TV RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/XBVUD3J.png" group-title="General",Pro TV $$
+https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/mjW-ZyJH_a1gk5oUoOTReg==,1647099969/channels/cme-ro-protv/playlist.m3u8?url=1
 #EXTINF:-2,ProTV FULL HD
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
 #EXTINF:0,ProTV FULL HD 1
