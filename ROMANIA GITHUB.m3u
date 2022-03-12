@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:0 group-title="Румыния | Romania" tvg-id="3744" tvg-logo="http://epg.it999.ru/img/3744.png" tvg-rec="3",Antena1 4K 
+http://bestavb.top:8008/Daia_Florin/1Unlimited19/53737 
+#EXTINF:0 group-title="Румыния | Romania" tvg-id="3744" tvg-logo="http://epg.it999.ru/img/3744.png" tvg-rec="3",Antena 1 FHD 
+http://bestavb.top:8008/Daia_Florin/1Unlimited19/33763
+#EXTINF:0 group-title="Румыния | Romania" tvg-id="3726" tvg-logo="http://epg.it999.ru/img/3726.png" tvg-rec="3",KanalD 4K 
+http://bestavb.top:8008/Daia_Florin/1Unlimited19/53740 
+#EXTINF:0 group-title="Румыния | Romania" tvg-id="3726" tvg-logo="http://epg.it999.ru/img/3726.png" tvg-rec="3",Kanal D FHD 
+http://bestavb.top:8008/Daia_Florin/1Unlimited19/33770
+#EXTINF:0 group-title="Румыния | Romania" tvg-id="3739" tvg-logo="http://epg.it999.ru/img/3739.png" tvg-rec="3",ProTV 4K 
+http://bestavb.top:8008/Daia_Florin/1Unlimited19/53739 
+#EXTINF:0 group-title="Румыния | Romania" tvg-id="3739" tvg-logo="http://epg.it999.ru/img/3739.png" tvg-rec="3",ProTV FHD 
+http://bestavb.top:8008/Daia_Florin/1Unlimited19/33760 
+#EXTINF:0 tvg-id="ext" group-title="Channels",VSV MOVIES 4K 
+http://bestavb.top:8008/Daia_Florin/1Unlimited19/95794 
+#EXTINF:0 tvg-id="ext" group-title="Channels",KING 4K 
+http://bestavb.top:8008/Daia_Florin/1Unlimited19/78603 
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD NET RO MOVIES 4K 
+http://bestavb.top:8008/Daia_Florin/1Unlimited19/62776 
+#EXTINF:0 tvg-id="ext" group-title="Channels",MAGURA MEDIA 4K 
+http://bestavb.top:8008/Daia_Florin/1Unlimited19/37414 
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIUM FILM 4K 
+http://bestavb.top:8008/Daia_Florin/1Unlimited19/53102
 #EXTINF:-1 tvg-id="A7TV.ro" tvg-name="A7TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/RmFg8BN.png" group-title="General",A7TV (720p)
 https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8
 #EXTINF:-1 tvg-id="AlephNews.ro" tvg-name="Aleph News" tvg-country="RO" tvg-language="" tvg-logo="https://i.imgur.com/MQ5PkKB.png" group-title="News",Aleph News (720p)
