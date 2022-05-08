@@ -32,7 +32,7 @@ http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Antena1.ro" tvg-name="Antena 1" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/26D3mCb.png" group-title="General",Antena 1
 https://iptv-all.lanesh4d0w.repl.co/romania/a1
 #EXTINF:-3 tvg-id="Antena1.ro" tvg-name="Antena 1 site" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/26D3mCb.png" group-title="General",Antena 1 roforum
-https://admobtv.000webhostapp.com/a1.php
+https://srv1.adriatelekom.com/Antena1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ROMANIAN SPORTS",TelekomSport1 HD
 http://supersonictv.live:25461/marcia/marcia/83964
 #EXTINF:-1 tvg-logo="" group-title="ROMANIAN SPORTS",TelekomSport2 HD
