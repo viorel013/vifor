@@ -239,6 +239,8 @@ http://89.38.8.131:39520
 http://89.38.8.130:39419
 #EXTINF:-1 tvg-id="TVPlusSuceava.ro" tvg-name="TVPlus Suceava" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/6T7w975.png" group-title="",TVPlus Suceava (576p)
 http://85.186.146.34:8080
+#EXTINF:0,TVR-1 RO
+http://5.254.16.186:80/TVR1/mono.m3u8
 #EXTINF:-1 tvg-id="TVR1.ro" tvg-name="TVR 1" tvg-country="RO" tvg-language="" tvg-logo="" group-title="",TVR INTERN
 https://canale.live/extern.m3u8?id=mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8
 #EXTINF:-1 tvg-id="TVR1.ro" tvg-name="TVR 1" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/CKQ7mpB.png" group-title="General",TVR 1 (720p) [Geo-blocked]
