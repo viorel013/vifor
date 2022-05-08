@@ -9,18 +9,6 @@ http://bestavb.top:8008/Daia_Florin/1Unlimited19/53740
 http://bestavb.top:8008/Daia_Florin/1Unlimited19/33770
 #EXTINF:0 group-title="Румыния | Romania" tvg-id="3739" tvg-logo="http://epg.it999.ru/img/3739.png" tvg-rec="3",ProTV 4K 
 http://bestavb.top:8008/Daia_Florin/1Unlimited19/53739 
-#EXTINF:0 group-title="Румыния | Romania" tvg-id="3739" tvg-logo="http://epg.it999.ru/img/3739.png" tvg-rec="3",ProTV FHD 
-http://bestavb.top:8008/Daia_Florin/1Unlimited19/33760 
-#EXTINF:0 tvg-id="ext" group-title="Channels",VSV MOVIES 4K 
-http://bestavb.top:8008/Daia_Florin/1Unlimited19/95794 
-#EXTINF:0 tvg-id="ext" group-title="Channels",KING 4K 
-http://bestavb.top:8008/Daia_Florin/1Unlimited19/78603 
-#EXTINF:0 tvg-id="ext" group-title="Channels",HD NET RO MOVIES 4K 
-http://bestavb.top:8008/Daia_Florin/1Unlimited19/62776 
-#EXTINF:0 tvg-id="ext" group-title="Channels",MAGURA MEDIA 4K 
-http://bestavb.top:8008/Daia_Florin/1Unlimited19/37414 
-#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIUM FILM 4K 
-http://bestavb.top:8008/Daia_Florin/1Unlimited19/53102
 #EXTINF:-1 tvg-id="A7TV.ro" tvg-name="A7TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/RmFg8BN.png" group-title="General",A7TV (720p)
 https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8
 #EXTINF:-1 tvg-id="AlephNews.ro" tvg-name="Aleph News" tvg-country="RO" tvg-language="" tvg-logo="https://i.imgur.com/MQ5PkKB.png" group-title="News",Aleph News (720p)
@@ -30,7 +18,7 @@ http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="AlfaOmegaTV.ro" tvg-name="Alfa Omega TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/StJg6Pu.png" group-title="Religious",Alfa Omega TV (540p)
 http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Antena1.ro" tvg-name="Antena 1" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/26D3mCb.png" group-title="General",Antena 1
-https://iptv-all.lanesh4d0w.repl.co/romania/a1
+http://5.254.16.186:80/Antena1/mono.m3u8
 #EXTINF:-3 tvg-id="Antena1.ro" tvg-name="Antena 1 site" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/26D3mCb.png" group-title="General",Antena 1 roforum
 https://srv1.adriatelekom.com/Antena1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ROMANIAN SPORTS",TelekomSport1 HD
